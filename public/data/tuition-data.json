@@ -1,0 +1,6259 @@
+{
+  "metadata": {
+    "serviceName": "대학 등록금 한눈에",
+    "years": [
+      2025,
+      2026
+    ],
+    "latestYear": 2026,
+    "updatedAt": "2026-11-14",
+    "unit": "KRW",
+    "scope": "일반대학교",
+    "zeroTuitionExcluded": true,
+    "campusIndependent": true,
+    "counts": {
+      "year2025": 209,
+      "year2026": 212,
+      "common": 206,
+      "only2025": 3,
+      "only2026": 6
+    }
+  },
+  "records": [
+    {
+      "id": "school-fad7a6d264",
+      "schoolName": "가야대학교(김해)",
+      "region": "경남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7239309.3,
+      "tuition2026": 7446294.0,
+      "semesterEstimate2026": 3723147.0,
+      "changeAmount": 206984.7000000002,
+      "changeRate": 2.8591774632422484,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6359893.9,
+        "naturalScience": 7534000.0,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6478040.9,
+        "naturalScience": 7740000.0,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-e46f0f22fd",
+      "schoolName": "가천대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8812617.8,
+      "tuition2026": 9094425.6,
+      "semesterEstimate2026": 4547212.8,
+      "changeAmount": 281807.7999999989,
+      "changeRate": 3.197776261214901,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7576022.8,
+        "naturalScience": 8805371.2,
+        "artsSports": 9622089.6,
+        "engineering": 9562567.8,
+        "medicine": 10374000.0
+      },
+      "disciplines2026": {
+        "humanities": 7871353.6,
+        "naturalScience": 9125927.5,
+        "artsSports": 9856019.0,
+        "engineering": 9817461.9,
+        "medicine": 10651428.6
+      }
+    },
+    {
+      "id": "school-f0a7062f14",
+      "schoolName": "가톨릭관동대학교",
+      "region": "강원",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7505368.9,
+      "tuition2026": 7725838.9,
+      "semesterEstimate2026": 3862919.45,
+      "changeAmount": 220470.0,
+      "changeRate": 2.9374971828499996,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6595136.5,
+        "naturalScience": 7998357.9,
+        "artsSports": 8522435.7,
+        "engineering": 8549265.1,
+        "medicine": 10390000.0
+      },
+      "disciplines2026": {
+        "humanities": 6731562.9,
+        "naturalScience": 8463848.6,
+        "artsSports": 8702722.6,
+        "engineering": 8735187.5,
+        "medicine": 11066000.0
+      }
+    },
+    {
+      "id": "school-11568cc957",
+      "schoolName": "가톨릭꽃동네대학교",
+      "region": "충북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7506277.8,
+      "tuition2026": 7468777.8,
+      "semesterEstimate2026": 3734388.9,
+      "changeAmount": -37500.0,
+      "changeRate": -0.49958183002499584,
+      "changeStatus": "decrease",
+      "disciplines2025": {
+        "humanities": 6655500.0,
+        "naturalScience": 7833500.0,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6618000.0,
+        "naturalScience": 7796000.0,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-f11056a7ff",
+      "schoolName": "가톨릭대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7493634.7,
+      "tuition2026": 7725223.0,
+      "semesterEstimate2026": 3862611.5,
+      "changeAmount": 231588.2999999998,
+      "changeRate": 3.0904668998610223,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6435650.1,
+        "naturalScience": 7813473.6,
+        "artsSports": 9004000.0,
+        "engineering": 8719758.6,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6619374.4,
+        "naturalScience": 7955226.1,
+        "artsSports": 9254000.0,
+        "engineering": 8797801.4,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-b6e286af0c",
+      "schoolName": "가톨릭대학교 _제2캠퍼스",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 9728300.7,
+      "tuition2026": 9999517.1,
+      "semesterEstimate2026": 4999758.55,
+      "changeAmount": 271216.4000000004,
+      "changeRate": 2.7879113563995856,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": 8899241.1,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": 10856000.0
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": 9146355.7,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": 11160000.0
+      }
+    },
+    {
+      "id": "school-28b8cc4cee",
+      "schoolName": "가톨릭대학교 _제3캠퍼스",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6450000.0,
+      "tuition2026": 6630000.0,
+      "semesterEstimate2026": 3315000.0,
+      "changeAmount": 180000.0,
+      "changeRate": 2.7906976744186047,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6450000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6630000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-4d63e54767",
+      "schoolName": "감리교신학대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6820923.7,
+      "tuition2026": 6941350.0,
+      "semesterEstimate2026": 3470675.0,
+      "changeAmount": 120426.29999999981,
+      "changeRate": 1.7655424000711195,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6820923.7,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6941350.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-974bcc3d22",
+      "schoolName": "강남대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7968388.7,
+      "tuition2026": 8206173.1,
+      "semesterEstimate2026": 4103086.55,
+      "changeAmount": 237784.39999999944,
+      "changeRate": 2.9840963957995603,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7248339.4,
+        "naturalScience": null,
+        "artsSports": 9242376.8,
+        "engineering": 9094084.1,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7478673.2,
+        "naturalScience": null,
+        "artsSports": 9502764.5,
+        "engineering": 9356010.5,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-bfb4ffe4d1",
+      "schoolName": "강서대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7924720.2,
+      "tuition2026": 7933023.5,
+      "semesterEstimate2026": 3966511.75,
+      "changeAmount": 8303.299999999814,
+      "changeRate": 0.10477720084047654,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7287551.3,
+        "naturalScience": 8980000.0,
+        "artsSports": 8855000.0,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7288641.1,
+        "naturalScience": 8980000.0,
+        "artsSports": 8855000.0,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-193517d15c",
+      "schoolName": "강원대학교",
+      "region": "강원",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 4179919.0,
+      "tuition2026": 4236211.1,
+      "semesterEstimate2026": 2118105.55,
+      "changeAmount": 56292.09999999963,
+      "changeRate": 1.3467270538017515,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 3444907.0,
+        "naturalScience": 4345621.5,
+        "artsSports": 4569547.4,
+        "engineering": 4422248.7,
+        "medicine": 8506384.4
+      },
+      "disciplines2026": {
+        "humanities": 3442287.8,
+        "naturalScience": 4410889.6,
+        "artsSports": 4568860.0,
+        "engineering": 4422610.9,
+        "medicine": 8598989.9
+      }
+    },
+    {
+      "id": "school-4e3058fa05",
+      "schoolName": "강원대학교 _제2캠퍼스",
+      "region": "강원",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 4242824.4,
+      "tuition2026": 4193092.9,
+      "semesterEstimate2026": 2096546.45,
+      "changeAmount": -49731.500000000466,
+      "changeRate": -1.1721319411663715,
+      "changeStatus": "decrease",
+      "disciplines2025": {
+        "humanities": 3542414.8,
+        "naturalScience": 4201127.3,
+        "artsSports": 4574026.8,
+        "engineering": 4436000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 3529546.3,
+        "naturalScience": 4197850.4,
+        "artsSports": 4568963.7,
+        "engineering": 4330923.1,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-af68e824c6",
+      "schoolName": "강원대학교 _제3캠퍼스",
+      "region": "강원",
+      "establishmentType": "국립",
+      "status": "신설",
+      "available2025": false,
+      "available2026": true,
+      "tuition2025": null,
+      "tuition2026": 4252250.3,
+      "semesterEstimate2026": 2126125.15,
+      "changeAmount": null,
+      "changeRate": null,
+      "changeStatus": "not-comparable",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 3488000.0,
+        "naturalScience": 4320540.7,
+        "artsSports": 5051417.0,
+        "engineering": 4616000.0,
+        "medicine": 7966000.0
+      }
+    },
+    {
+      "id": "school-bca54695d2",
+      "schoolName": "강원대학교 _제4캠퍼스",
+      "region": "강원",
+      "establishmentType": "국립",
+      "status": "신설",
+      "available2025": false,
+      "available2026": true,
+      "tuition2025": null,
+      "tuition2026": 4259854.0,
+      "semesterEstimate2026": 2129927.0,
+      "changeAmount": null,
+      "changeRate": null,
+      "changeStatus": "not-comparable",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 3488000.0,
+        "naturalScience": 4298000.0,
+        "artsSports": null,
+        "engineering": 4616000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-d094cba6e6",
+      "schoolName": "건국대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8748292.8,
+      "tuition2026": 8985986.4,
+      "semesterEstimate2026": 4492993.2,
+      "changeAmount": 237693.59999999963,
+      "changeRate": 2.7170284012441788,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7093388.9,
+        "naturalScience": 8610007.3,
+        "artsSports": 9572867.8,
+        "engineering": 9718284.8,
+        "medicine": 10700000.0
+      },
+      "disciplines2026": {
+        "humanities": 7302582.0,
+        "naturalScience": 8872626.9,
+        "artsSports": 9862270.0,
+        "engineering": 9917198.4,
+        "medicine": 11018000.0
+      }
+    },
+    {
+      "id": "school-f6ac8b2877",
+      "schoolName": "건국대학교(글로컬) _분교",
+      "region": "충북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8570181.3,
+      "tuition2026": 8838628.7,
+      "semesterEstimate2026": 4419314.35,
+      "changeAmount": 268447.3999999985,
+      "changeRate": 3.1323421360992505,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7133196.2,
+        "naturalScience": 8586586.3,
+        "artsSports": 9515847.7,
+        "engineering": 9474782.8,
+        "medicine": 12136000.0
+      },
+      "disciplines2026": {
+        "humanities": 7351752.0,
+        "naturalScience": 8849870.5,
+        "artsSports": 9800738.8,
+        "engineering": 9754018.1,
+        "medicine": 12136000.0
+      }
+    },
+    {
+      "id": "school-708f797d9c",
+      "schoolName": "건양대학교",
+      "region": "충남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6625935.9,
+      "tuition2026": 6810819.3,
+      "semesterEstimate2026": 3405409.65,
+      "changeAmount": 184883.39999999944,
+      "changeRate": 2.7902986504895018,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6091962.1,
+        "naturalScience": 7356193.5,
+        "artsSports": 6894000.0,
+        "engineering": 7470000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6251626.9,
+        "naturalScience": 7486353.2,
+        "artsSports": 7064000.0,
+        "engineering": 7606000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-a087099d30",
+      "schoolName": "건양대학교 _제2캠퍼스",
+      "region": "대전",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7641372.9,
+      "tuition2026": 7864692.8,
+      "semesterEstimate2026": 3932346.4,
+      "changeAmount": 223319.89999999944,
+      "changeRate": 2.922510168297106,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 5900000.0,
+        "naturalScience": 7574016.8,
+        "artsSports": null,
+        "engineering": 7620000.0,
+        "medicine": 10490000.0
+      },
+      "disciplines2026": {
+        "humanities": 6008000.0,
+        "naturalScience": 7850721.0,
+        "artsSports": null,
+        "engineering": 7766260.4,
+        "medicine": 10856000.0
+      }
+    },
+    {
+      "id": "school-15cbf59a62",
+      "schoolName": "경기대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7796243.6,
+      "tuition2026": 8028841.1,
+      "semesterEstimate2026": 4014420.55,
+      "changeAmount": 232597.5,
+      "changeRate": 2.9834560325949795,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6812125.6,
+        "naturalScience": 8051172.4,
+        "artsSports": 8432243.6,
+        "engineering": 8737279.2,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7003518.8,
+        "naturalScience": 8275862.4,
+        "artsSports": 8673745.1,
+        "engineering": 8905794.9,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-1c0a884b3d",
+      "schoolName": "경기대학교 _제2캠퍼스",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7548841.5,
+      "tuition2026": 7800638.0,
+      "semesterEstimate2026": 3900319.0,
+      "changeAmount": 251796.5,
+      "changeRate": 3.3355648015659094,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6828025.1,
+        "naturalScience": null,
+        "artsSports": 8792168.1,
+        "engineering": 7733000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7020600.8,
+        "naturalScience": null,
+        "artsSports": 9037942.9,
+        "engineering": 7844961.5,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-adbe631e61",
+      "schoolName": "경남과학기술대학교 (폐교)",
+      "region": "경남",
+      "establishmentType": "국립",
+      "status": "폐교",
+      "available2025": true,
+      "available2026": false,
+      "tuition2025": 4048000.0,
+      "tuition2026": null,
+      "semesterEstimate2026": null,
+      "changeAmount": null,
+      "changeRate": null,
+      "changeStatus": "not-comparable",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": 4048000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-5a2291e291",
+      "schoolName": "경남대학교",
+      "region": "경남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6850262.3,
+      "tuition2026": 7060677.8,
+      "semesterEstimate2026": 3530338.9,
+      "changeAmount": 210415.5,
+      "changeRate": 3.0716415048807693,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 5981967.0,
+        "naturalScience": 6939866.7,
+        "artsSports": 7812237.0,
+        "engineering": 7861088.3,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6151242.4,
+        "naturalScience": 7193856.2,
+        "artsSports": 7932240.1,
+        "engineering": 8071553.7,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-f1b78fc627",
+      "schoolName": "경동대학교",
+      "region": "강원",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6728666.7,
+      "tuition2026": 6782000.0,
+      "semesterEstimate2026": 3391000.0,
+      "changeAmount": 53333.299999999814,
+      "changeRate": 0.7926280551242018,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6728666.7,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6782000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-3b1d376280",
+      "schoolName": "경동대학교 _제3캠퍼스",
+      "region": "강원",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8954410.8,
+      "tuition2026": 9054457.1,
+      "semesterEstimate2026": 4527228.55,
+      "changeAmount": 100046.29999999888,
+      "changeRate": 1.1172851261190617,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6929400.0,
+        "naturalScience": 9048378.8,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7040000.0,
+        "naturalScience": 9094829.4,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-27ce7c5da7",
+      "schoolName": "경동대학교 _제4캠퍼스",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8137293.6,
+      "tuition2026": 8146586.1,
+      "semesterEstimate2026": 4073293.05,
+      "changeAmount": 9292.5,
+      "changeRate": 0.11419644487203953,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7082580.0,
+        "naturalScience": 8589174.6,
+        "artsSports": 8994693.1,
+        "engineering": 8741874.9,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7099233.7,
+        "naturalScience": 8649304.3,
+        "artsSports": 9035881.2,
+        "engineering": 8784000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-215dd5d7b7",
+      "schoolName": "경북대학교",
+      "region": "대구",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 4514173.1,
+      "tuition2026": 4527790.5,
+      "semesterEstimate2026": 2263895.25,
+      "changeAmount": 13617.400000000373,
+      "changeRate": 0.30165879106409044,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 3557732.3,
+        "naturalScience": 4565276.0,
+        "artsSports": 4675279.2,
+        "engineering": 4633911.7,
+        "medicine": 8074942.7
+      },
+      "disciplines2026": {
+        "humanities": 3558923.3,
+        "naturalScience": 4591635.2,
+        "artsSports": 4673472.6,
+        "engineering": 4620533.3,
+        "medicine": 8074942.7
+      }
+    },
+    {
+      "id": "school-bd24ab6964",
+      "schoolName": "경상국립대학교",
+      "region": "경남",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 4078055.3,
+      "tuition2026": 4095673.4,
+      "semesterEstimate2026": 2047836.7,
+      "changeAmount": 17618.100000000093,
+      "changeRate": 0.43202209641443784,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 3275309.8,
+        "naturalScience": 4176106.3,
+        "artsSports": 4354509.8,
+        "engineering": 4330000.0,
+        "medicine": 8312888.9
+      },
+      "disciplines2026": {
+        "humanities": 3275063.3,
+        "naturalScience": 4225712.9,
+        "artsSports": 4354389.0,
+        "engineering": 4330000.0,
+        "medicine": 8312888.9
+      }
+    },
+    {
+      "id": "school-ae0579c61f",
+      "schoolName": "경성대학교",
+      "region": "부산",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7328471.4,
+      "tuition2026": 7561386.3,
+      "semesterEstimate2026": 3780693.15,
+      "changeAmount": 232914.89999999944,
+      "changeRate": 3.178219403298748,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6182905.0,
+        "naturalScience": 7984896.4,
+        "artsSports": 8189229.4,
+        "engineering": 8232980.2,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6383340.4,
+        "naturalScience": 8352932.4,
+        "artsSports": 8411052.9,
+        "engineering": 8462502.8,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-fc474c91d6",
+      "schoolName": "경운대학교",
+      "region": "경북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8093237.8,
+      "tuition2026": 8046670.2,
+      "semesterEstimate2026": 4023335.1,
+      "changeAmount": -46567.59999999963,
+      "changeRate": -0.5753889994434568,
+      "changeStatus": "decrease",
+      "disciplines2025": {
+        "humanities": 6506196.9,
+        "naturalScience": 8315063.4,
+        "artsSports": 8423510.4,
+        "engineering": 8650863.5,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6500891.1,
+        "naturalScience": 8311760.5,
+        "artsSports": 8421423.5,
+        "engineering": 8681348.7,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-1f0dbf8ca0",
+      "schoolName": "경일대학교",
+      "region": "경북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7753759.3,
+      "tuition2026": 7997556.5,
+      "semesterEstimate2026": 3998778.25,
+      "changeAmount": 243797.2000000002,
+      "changeRate": 3.1442451405475045,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6346003.3,
+        "naturalScience": 8112564.2,
+        "artsSports": 8100866.8,
+        "engineering": 8094980.4,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6620764.0,
+        "naturalScience": 8328693.1,
+        "artsSports": 8339879.4,
+        "engineering": 8326034.8,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-c82adbe73a",
+      "schoolName": "경희대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8441574.6,
+      "tuition2026": 8701099.7,
+      "semesterEstimate2026": 4350549.85,
+      "changeAmount": 259525.09999999963,
+      "changeRate": 3.0743683767244043,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6857502.8,
+        "naturalScience": 9044369.7,
+        "artsSports": 8933206.8,
+        "engineering": 9064258.5,
+        "medicine": 11888214.8
+      },
+      "disciplines2026": {
+        "humanities": 7067273.0,
+        "naturalScience": 9353731.1,
+        "artsSports": 9198003.6,
+        "engineering": 9303009.1,
+        "medicine": 12238872.5
+      }
+    },
+    {
+      "id": "school-f6cf771efd",
+      "schoolName": "계명대학교",
+      "region": "대구",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8079008.3,
+      "tuition2026": 8236598.9,
+      "semesterEstimate2026": 4118299.45,
+      "changeAmount": 157590.60000000056,
+      "changeRate": 1.9506181222762276,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6627964.6,
+        "naturalScience": 8806849.9,
+        "artsSports": 9385915.5,
+        "engineering": 9038078.0,
+        "medicine": 10834000.0
+      },
+      "disciplines2026": {
+        "humanities": 6829564.7,
+        "naturalScience": 9042564.2,
+        "artsSports": 9511969.0,
+        "engineering": 9232499.4,
+        "medicine": 11234000.0
+      }
+    },
+    {
+      "id": "school-2bbd7221f5",
+      "schoolName": "고려대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8814464.2,
+      "tuition2026": 9091429.8,
+      "semesterEstimate2026": 4545714.9,
+      "changeAmount": 276965.6000000015,
+      "changeRate": 3.1421717045490016,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7602954.1,
+        "naturalScience": 9156476.8,
+        "artsSports": 9426057.7,
+        "engineering": 10223456.9,
+        "medicine": 13034000.0
+      },
+      "disciplines2026": {
+        "humanities": 7827285.4,
+        "naturalScience": 9421185.3,
+        "artsSports": 9699711.5,
+        "engineering": 10501472.8,
+        "medicine": 13412000.0
+      }
+    },
+    {
+      "id": "school-26a3fce0f1",
+      "schoolName": "고려대학교(세종) _분교",
+      "region": "세종",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8939543.3,
+      "tuition2026": 9214313.7,
+      "semesterEstimate2026": 4607156.85,
+      "changeAmount": 274770.3999999985,
+      "changeRate": 3.07365142467623,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7530529.4,
+        "naturalScience": 9314651.2,
+        "artsSports": 8873187.5,
+        "engineering": 10224176.5,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7754174.8,
+        "naturalScience": 9655203.9,
+        "artsSports": 9130959.0,
+        "engineering": 10519866.2,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-2f1dd9f5df",
+      "schoolName": "고신대학교",
+      "region": "부산",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7057229.3,
+      "tuition2026": 7280970.9,
+      "semesterEstimate2026": 3640485.45,
+      "changeAmount": 223741.60000000056,
+      "changeRate": 3.170388696311746,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6126806.0,
+        "naturalScience": 7337240.9,
+        "artsSports": 7750384.6,
+        "engineering": null,
+        "medicine": 9915000.0
+      },
+      "disciplines2026": {
+        "humanities": 6307605.4,
+        "naturalScience": 7518851.1,
+        "artsSports": 7900370.4,
+        "engineering": null,
+        "medicine": 10175000.0
+      }
+    },
+    {
+      "id": "school-238de31a70",
+      "schoolName": "광신대학교",
+      "region": "전남광주",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6176458.1,
+      "tuition2026": 6367853.5,
+      "semesterEstimate2026": 3183926.75,
+      "changeAmount": 191395.40000000037,
+      "changeRate": 3.098788932122771,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 5807337.3,
+        "naturalScience": null,
+        "artsSports": 7252000.0,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6004984.4,
+        "naturalScience": null,
+        "artsSports": 7372000.0,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-8253c7faf1",
+      "schoolName": "광운대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8330757.9,
+      "tuition2026": 8595586.5,
+      "semesterEstimate2026": 4297793.25,
+      "changeAmount": 264828.5999999996,
+      "changeRate": 3.1789256533310084,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7208339.3,
+        "naturalScience": 7906863.6,
+        "artsSports": 7920000.0,
+        "engineering": 9001922.7,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7403234.4,
+        "naturalScience": 8124692.3,
+        "artsSports": 8134000.0,
+        "engineering": 9239442.8,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-e737ecda2a",
+      "schoolName": "광주과학기술원",
+      "region": "전남광주",
+      "establishmentType": "특별법법인",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 2060000.0,
+      "tuition2026": 2060000.0,
+      "semesterEstimate2026": 1030000.0,
+      "changeAmount": 0.0,
+      "changeRate": 0.0,
+      "changeStatus": "same",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": 2060000.0,
+        "artsSports": null,
+        "engineering": 2060000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": 2060000.0,
+        "artsSports": null,
+        "engineering": 2060000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-6a3a99a487",
+      "schoolName": "광주대학교",
+      "region": "전남광주",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6919352.4,
+      "tuition2026": 7133783.6,
+      "semesterEstimate2026": 3566891.8,
+      "changeAmount": 214431.19999999925,
+      "changeRate": 3.099006779883031,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6501979.4,
+        "naturalScience": 7171242.7,
+        "artsSports": 7304892.9,
+        "engineering": 7298907.4,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6683160.2,
+        "naturalScience": 7488000.0,
+        "artsSports": 7488000.0,
+        "engineering": 7488000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-fa153e645e",
+      "schoolName": "광주여자대학교",
+      "region": "전남광주",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6600791.0,
+      "tuition2026": 6809350.9,
+      "semesterEstimate2026": 3404675.45,
+      "changeAmount": 208559.90000000037,
+      "changeRate": 3.15961980920166,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 5856047.3,
+        "naturalScience": 7058245.3,
+        "artsSports": 6778000.0,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6045482.7,
+        "naturalScience": 7287563.5,
+        "artsSports": 7020000.0,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-c9fe3c334c",
+      "schoolName": "국립강릉원주대학교 (폐교)",
+      "region": "강원",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": false,
+      "tuition2025": 4256798.1,
+      "tuition2026": null,
+      "semesterEstimate2026": null,
+      "changeAmount": null,
+      "changeRate": null,
+      "changeStatus": "not-comparable",
+      "disciplines2025": {
+        "humanities": 3488000.0,
+        "naturalScience": 4315624.2,
+        "artsSports": 5057569.9,
+        "engineering": 4616000.0,
+        "medicine": 7966000.0
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-c59f4e41fa",
+      "schoolName": "국립강릉원주대학교 _제2캠퍼스(폐교)",
+      "region": "강원",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": false,
+      "tuition2025": 4273990.8,
+      "tuition2026": null,
+      "semesterEstimate2026": null,
+      "changeAmount": null,
+      "changeRate": null,
+      "changeStatus": "not-comparable",
+      "disciplines2025": {
+        "humanities": 3488000.0,
+        "naturalScience": 4298000.0,
+        "artsSports": null,
+        "engineering": 4616000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-6169c36041",
+      "schoolName": "국립경국대학교",
+      "region": "경북",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 3787927.3,
+      "tuition2026": 3844993.9,
+      "semesterEstimate2026": 1922496.95,
+      "changeAmount": 57066.60000000009,
+      "changeRate": 1.5065389454544202,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 3338636.0,
+        "naturalScience": 3873358.8,
+        "artsSports": 3929678.6,
+        "engineering": 4163570.4,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 3441168.5,
+        "naturalScience": 3929508.0,
+        "artsSports": 3977129.7,
+        "engineering": 4192497.4,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-920ea9679b",
+      "schoolName": "국립공주대학교",
+      "region": "충남",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 3858723.3,
+      "tuition2026": 3883800.8,
+      "semesterEstimate2026": 1941900.4,
+      "changeAmount": 25077.5,
+      "changeRate": 0.649891118132259,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 3246840.2,
+        "naturalScience": 3880560.4,
+        "artsSports": 4180803.2,
+        "engineering": 4246183.2,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 3295551.5,
+        "naturalScience": 3904451.5,
+        "artsSports": 4180803.2,
+        "engineering": 4262530.9,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-63a1514501",
+      "schoolName": "국립군산대학교",
+      "region": "전북",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 3897282.2,
+      "tuition2026": 3891106.1,
+      "semesterEstimate2026": 1945553.05,
+      "changeAmount": -6176.100000000093,
+      "changeRate": -0.1584719731098788,
+      "changeStatus": "decrease",
+      "disciplines2025": {
+        "humanities": 3318000.0,
+        "naturalScience": 3888536.1,
+        "artsSports": 4138859.4,
+        "engineering": 4238000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 3318000.0,
+        "naturalScience": 3903952.3,
+        "artsSports": 4121694.9,
+        "engineering": 4238000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-a0ae9c3a44",
+      "schoolName": "국립금오공과대학교",
+      "region": "경북",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 3770399.6,
+      "tuition2026": 3773623.1,
+      "semesterEstimate2026": 1886811.55,
+      "changeAmount": 3223.5,
+      "changeRate": 0.08549491677221693,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 3400400.0,
+        "naturalScience": 3536400.0,
+        "artsSports": null,
+        "engineering": 3792400.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 3400400.0,
+        "naturalScience": 3536400.0,
+        "artsSports": null,
+        "engineering": 3791107.5,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-8dae9f42ae",
+      "schoolName": "국립목포대학교",
+      "region": "전남광주",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 3873166.5,
+      "tuition2026": 3871285.8,
+      "semesterEstimate2026": 1935642.9,
+      "changeAmount": -1880.7000000001863,
+      "changeRate": -0.04855716892109302,
+      "changeStatus": "decrease",
+      "disciplines2025": {
+        "humanities": 3407503.1,
+        "naturalScience": 4105938.2,
+        "artsSports": 4110482.8,
+        "engineering": 4236000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 3393468.7,
+        "naturalScience": 4097613.2,
+        "artsSports": 4111046.7,
+        "engineering": 4236000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-26481f1ba8",
+      "schoolName": "국립목포대학교(담양캠퍼스) _제2캠퍼스",
+      "region": "전남광주",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": false,
+      "available2026": true,
+      "tuition2025": null,
+      "tuition2026": 3376851.1,
+      "semesterEstimate2026": 1688425.55,
+      "changeAmount": null,
+      "changeRate": null,
+      "changeStatus": "not-comparable",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": 2890000.0,
+        "artsSports": 4236000.0,
+        "engineering": 3355923.1,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-9a429135df",
+      "schoolName": "국립목포해양대학교",
+      "region": "전남광주",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 3409473.1,
+      "tuition2026": 3412114.0,
+      "semesterEstimate2026": 1706057.0,
+      "changeAmount": 2640.899999999907,
+      "changeRate": 0.07745771626706505,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": 3920000.0,
+        "engineering": 3401901.4,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": 3920000.0,
+        "engineering": 3400734.9,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-f37f12ca4f",
+      "schoolName": "국립부경대학교",
+      "region": "부산",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 4046157.9,
+      "tuition2026": 4049668.0,
+      "semesterEstimate2026": 2024834.0,
+      "changeAmount": 3510.100000000093,
+      "changeRate": 0.08675143399618915,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 3416331.8,
+        "naturalScience": 4107729.5,
+        "artsSports": 4262245.1,
+        "engineering": 4349388.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 3420890.3,
+        "naturalScience": 4094151.1,
+        "artsSports": 4260365.9,
+        "engineering": 4347303.1,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-a59ae723d6",
+      "schoolName": "국립순천대학교",
+      "region": "전남광주",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 3971633.4,
+      "tuition2026": 3970127.2,
+      "semesterEstimate2026": 1985063.6,
+      "changeAmount": -1506.1999999997206,
+      "changeRate": -0.03792394333272856,
+      "changeStatus": "decrease",
+      "disciplines2025": {
+        "humanities": 3370824.3,
+        "naturalScience": 4151446.2,
+        "artsSports": 4245063.3,
+        "engineering": 4307640.6,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 3372933.0,
+        "naturalScience": 4143322.7,
+        "artsSports": 4249081.6,
+        "engineering": 4307712.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-33c1334e71",
+      "schoolName": "국립창원대학교",
+      "region": "경남",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 3906256.3,
+      "tuition2026": 3919778.2,
+      "semesterEstimate2026": 1959889.1,
+      "changeAmount": 13521.900000000373,
+      "changeRate": 0.34616008171302975,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 3417046.8,
+        "naturalScience": 4041000.0,
+        "artsSports": 4289637.7,
+        "engineering": 4382968.1,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 3444891.0,
+        "naturalScience": 4040965.0,
+        "artsSports": 4299240.1,
+        "engineering": 4382968.7,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-03249bbcf2",
+      "schoolName": "국립창원대학교(거창캠퍼스) _제2캠퍼스",
+      "region": "경남",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": false,
+      "available2026": true,
+      "tuition2025": null,
+      "tuition2026": 2841174.4,
+      "semesterEstimate2026": 1420587.2,
+      "changeAmount": null,
+      "changeRate": null,
+      "changeStatus": "not-comparable",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 2396000.0,
+        "naturalScience": 2890000.0,
+        "artsSports": null,
+        "engineering": 2890000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-968616878b",
+      "schoolName": "국립창원대학교(남해캠퍼스) _제3캠퍼스",
+      "region": "경남",
+      "establishmentType": "국립",
+      "status": "신설",
+      "available2025": false,
+      "available2026": true,
+      "tuition2025": null,
+      "tuition2026": 2746910.3,
+      "semesterEstimate2026": 1373455.15,
+      "changeAmount": null,
+      "changeRate": null,
+      "changeStatus": "not-comparable",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 2396000.0,
+        "naturalScience": 2773764.7,
+        "artsSports": null,
+        "engineering": 2890000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-9ce7ee6171",
+      "schoolName": "국립한국교통대학교",
+      "region": "충북",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 4111989.3,
+      "tuition2026": 4103672.1,
+      "semesterEstimate2026": 2051836.05,
+      "changeAmount": -8317.19999999972,
+      "changeRate": -0.20226706329220556,
+      "changeStatus": "decrease",
+      "disciplines2025": {
+        "humanities": 3727619.7,
+        "naturalScience": 4131239.9,
+        "artsSports": 4389418.0,
+        "engineering": 4238014.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 3715552.4,
+        "naturalScience": 4131278.6,
+        "artsSports": 4375297.3,
+        "engineering": 4235161.2,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-34f6712394",
+      "schoolName": "국립한국해양대학교",
+      "region": "부산",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 3721746.4,
+      "tuition2026": 3722953.1,
+      "semesterEstimate2026": 1861476.55,
+      "changeAmount": 1206.7000000001863,
+      "changeRate": 0.03242295068788637,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 3284000.0,
+        "naturalScience": 3994000.0,
+        "artsSports": 3994000.0,
+        "engineering": 3808432.4,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 3284000.0,
+        "naturalScience": 3994000.0,
+        "artsSports": 3994000.0,
+        "engineering": 3809785.5,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-a4d76f0d74",
+      "schoolName": "국립한밭대학교",
+      "region": "대전",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 4479446.5,
+      "tuition2026": 4479849.4,
+      "semesterEstimate2026": 2239924.7,
+      "changeAmount": 402.90000000037253,
+      "changeRate": 0.008994414823357584,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 3841901.8,
+        "naturalScience": null,
+        "artsSports": 4602162.2,
+        "engineering": 4658763.2,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 3842570.2,
+        "naturalScience": null,
+        "artsSports": 4614591.0,
+        "engineering": 4651241.4,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-e4fe3edfd8",
+      "schoolName": "국민대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8376923.6,
+      "tuition2026": 8616796.8,
+      "semesterEstimate2026": 4308398.4,
+      "changeAmount": 239873.20000000112,
+      "changeRate": 2.863499913022976,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7546054.7,
+        "naturalScience": 8244784.0,
+        "artsSports": 9364684.8,
+        "engineering": 9005076.5,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7887273.1,
+        "naturalScience": 8478001.9,
+        "artsSports": 9640435.5,
+        "engineering": 9259532.9,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-65cc323b97",
+      "schoolName": "극동대학교",
+      "region": "충북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7921017.8,
+      "tuition2026": 7846600.1,
+      "semesterEstimate2026": 3923300.05,
+      "changeAmount": -74417.70000000019,
+      "changeRate": -0.9394966894279697,
+      "changeStatus": "decrease",
+      "disciplines2025": {
+        "humanities": 6776266.4,
+        "naturalScience": 8084540.4,
+        "artsSports": 8351021.0,
+        "engineering": 8661426.7,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6753068.4,
+        "naturalScience": 8080161.7,
+        "artsSports": 8274331.8,
+        "engineering": 8661494.3,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-bddec49f18",
+      "schoolName": "금강대학교",
+      "region": "충남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6598000.0,
+      "tuition2026": 6598000.0,
+      "semesterEstimate2026": 3299000.0,
+      "changeAmount": 0.0,
+      "changeRate": 0.0,
+      "changeStatus": "same",
+      "disciplines2025": {
+        "humanities": 6598000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6584923.1,
+        "naturalScience": null,
+        "artsSports": 6700000.0,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-b3c5162386",
+      "schoolName": "김천대학교",
+      "region": "경북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7159777.6,
+      "tuition2026": 7387386.5,
+      "semesterEstimate2026": 3693693.25,
+      "changeAmount": 227608.90000000037,
+      "changeRate": 3.178993995567689,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6561351.5,
+        "naturalScience": 7296974.5,
+        "artsSports": 7313586.2,
+        "engineering": 7325600.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6779116.2,
+        "naturalScience": 7520268.7,
+        "artsSports": 7543200.0,
+        "engineering": 7546854.5,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-8e36aff4c8",
+      "schoolName": "나사렛대학교",
+      "region": "충남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7865196.9,
+      "tuition2026": 7911622.7,
+      "semesterEstimate2026": 3955811.35,
+      "changeAmount": 46425.799999999814,
+      "changeRate": 0.5902687572894687,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7286237.8,
+        "naturalScience": 8724000.0,
+        "artsSports": 8599551.4,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7371971.6,
+        "naturalScience": 8828800.0,
+        "artsSports": 8661221.7,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-bcc7b61d77",
+      "schoolName": "남부대학교",
+      "region": "전남광주",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6565533.5,
+      "tuition2026": 6766873.8,
+      "semesterEstimate2026": 3383436.9,
+      "changeAmount": 201340.2999999998,
+      "changeRate": 3.066625126503426,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 5838050.9,
+        "naturalScience": 6599884.7,
+        "artsSports": 7081374.5,
+        "engineering": 7082164.7,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6023637.9,
+        "naturalScience": 6809684.2,
+        "artsSports": 7306540.6,
+        "engineering": 7302037.8,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-eb90ff65b8",
+      "schoolName": "남서울대학교",
+      "region": "충남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8356230.6,
+      "tuition2026": 8616388.3,
+      "semesterEstimate2026": 4308194.15,
+      "changeAmount": 260157.70000000112,
+      "changeRate": 3.113337968437601,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7414040.7,
+        "naturalScience": 9334582.2,
+        "artsSports": 8973922.4,
+        "engineering": 8742378.9,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7625125.1,
+        "naturalScience": 9607788.3,
+        "artsSports": 9224056.9,
+        "engineering": 8993317.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-8444343be4",
+      "schoolName": "단국대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8511519.8,
+      "tuition2026": 8756933.3,
+      "semesterEstimate2026": 4378466.65,
+      "changeAmount": 245413.5,
+      "changeRate": 2.883309981843665,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7446825.9,
+        "naturalScience": 8826000.0,
+        "artsSports": 9576426.7,
+        "engineering": 9378630.2,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7718019.8,
+        "naturalScience": 9076000.0,
+        "artsSports": 9847536.4,
+        "engineering": 9647964.8,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-9a0e7609f7",
+      "schoolName": "단국대학교 _제2캠퍼스",
+      "region": "충남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8658564.6,
+      "tuition2026": 8922944.1,
+      "semesterEstimate2026": 4461472.05,
+      "changeAmount": 264379.5,
+      "changeRate": 3.053387163040858,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7284637.8,
+        "naturalScience": 9198386.2,
+        "artsSports": 8920083.0,
+        "engineering": 9316244.3,
+        "medicine": 10832000.0
+      },
+      "disciplines2026": {
+        "humanities": 7544936.5,
+        "naturalScience": 9512619.7,
+        "artsSports": 9185164.1,
+        "engineering": 9566020.8,
+        "medicine": 11140000.0
+      }
+    },
+    {
+      "id": "school-a1df1d1acd",
+      "schoolName": "대구가톨릭대학교",
+      "region": "경북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7669044.1,
+      "tuition2026": 7904801.4,
+      "semesterEstimate2026": 3952400.7,
+      "changeAmount": 235757.30000000075,
+      "changeRate": 3.0741419259800677,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6212729.5,
+        "naturalScience": 8307453.6,
+        "artsSports": 8895023.1,
+        "engineering": 8378652.4,
+        "medicine": 10080000.0
+      },
+      "disciplines2026": {
+        "humanities": 6417017.4,
+        "naturalScience": 8514524.9,
+        "artsSports": 9127160.7,
+        "engineering": 8577034.5,
+        "medicine": 10886000.0
+      }
+    },
+    {
+      "id": "school-a3e83fb323",
+      "schoolName": "대구경북과학기술원",
+      "region": "대구",
+      "establishmentType": "특별법법인",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7690000.0,
+      "tuition2026": 7934000.0,
+      "semesterEstimate2026": 3967000.0,
+      "changeAmount": 244000.0,
+      "changeRate": 3.1729518855656695,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": 7690000.0,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": 7934000.0,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-a062abe89d",
+      "schoolName": "대구대학교",
+      "region": "경북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7324173.1,
+      "tuition2026": 7556022.7,
+      "semesterEstimate2026": 3778011.35,
+      "changeAmount": 231849.60000000056,
+      "changeRate": 3.1655396020064104,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6284887.2,
+        "naturalScience": 7871166.7,
+        "artsSports": 8667233.5,
+        "engineering": 8443139.4,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6502316.7,
+        "naturalScience": 8099956.0,
+        "artsSports": 8911638.8,
+        "engineering": 8691308.3,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-74c22c88d3",
+      "schoolName": "대구예술대학교",
+      "region": "경북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8319377.8,
+      "tuition2026": 8390429.3,
+      "semesterEstimate2026": 4195214.65,
+      "changeAmount": 71051.50000000093,
+      "changeRate": 0.8540482438482471,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": 8319377.8,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": 8390429.3,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-bcfc477eee",
+      "schoolName": "대구한의대학교",
+      "region": "경북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7604772.0,
+      "tuition2026": 7845054.2,
+      "semesterEstimate2026": 3922527.1,
+      "changeAmount": 240282.2000000002,
+      "changeRate": 3.1596239834672253,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6072019.4,
+        "naturalScience": 7968274.9,
+        "artsSports": 7681161.3,
+        "engineering": 8055200.0,
+        "medicine": 9760000.0
+      },
+      "disciplines2026": {
+        "humanities": 6246685.6,
+        "naturalScience": 8220359.9,
+        "artsSports": 7956162.2,
+        "engineering": 8189200.0,
+        "medicine": 10044000.0
+      }
+    },
+    {
+      "id": "school-e5edbc74bc",
+      "schoolName": "대신대학교",
+      "region": "경북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6588923.7,
+      "tuition2026": 6618297.1,
+      "semesterEstimate2026": 3309148.55,
+      "changeAmount": 29373.39999999944,
+      "changeRate": 0.4457996683130424,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6234080.9,
+        "naturalScience": null,
+        "artsSports": 7396657.9,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6249071.0,
+        "naturalScience": null,
+        "artsSports": 7344838.7,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-45a0a9b1d6",
+      "schoolName": "대전가톨릭대학교",
+      "region": "세종",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 5760000.0,
+      "tuition2026": 5760000.0,
+      "semesterEstimate2026": 2880000.0,
+      "changeAmount": 0.0,
+      "changeRate": 0.0,
+      "changeStatus": "same",
+      "disciplines2025": {
+        "humanities": 5760000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 5760000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-d4dadcb612",
+      "schoolName": "대전대학교",
+      "region": "대전",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7453927.6,
+      "tuition2026": 7685682.1,
+      "semesterEstimate2026": 3842841.05,
+      "changeAmount": 231754.5,
+      "changeRate": 3.109159525509746,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6721767.7,
+        "naturalScience": 7621545.5,
+        "artsSports": 7861112.4,
+        "engineering": 7968719.6,
+        "medicine": 9350000.0
+      },
+      "disciplines2026": {
+        "humanities": 6937749.6,
+        "naturalScience": 7869912.7,
+        "artsSports": 8091695.9,
+        "engineering": 8213858.6,
+        "medicine": 9624000.0
+      }
+    },
+    {
+      "id": "school-b602aec81b",
+      "schoolName": "대전신학대학교",
+      "region": "대전",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 5956000.0,
+      "tuition2026": 6100000.0,
+      "semesterEstimate2026": 3050000.0,
+      "changeAmount": 144000.0,
+      "changeRate": 2.41773002014775,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 5956000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6100000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-8f2e356312",
+      "schoolName": "대진대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8009719.7,
+      "tuition2026": 8246988.5,
+      "semesterEstimate2026": 4123494.25,
+      "changeAmount": 237268.7999999998,
+      "changeRate": 2.9622609640135074,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6803479.6,
+        "naturalScience": 8429062.3,
+        "artsSports": 8897442.9,
+        "engineering": 8909544.3,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7050596.6,
+        "naturalScience": 8681203.1,
+        "artsSports": 9116404.3,
+        "engineering": 9132093.8,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-92c3fefdaf",
+      "schoolName": "덕성여자대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7593288.1,
+      "tuition2026": 7810760.7,
+      "semesterEstimate2026": 3905380.35,
+      "changeAmount": 217472.60000000056,
+      "changeRate": 2.8640109151133166,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6423130.1,
+        "naturalScience": 8819934.8,
+        "artsSports": 8905108.1,
+        "engineering": 8401800.7,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6590574.8,
+        "naturalScience": 9084594.3,
+        "artsSports": 9127696.3,
+        "engineering": 8280222.3,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-ade0709168",
+      "schoolName": "동국대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8392497.2,
+      "tuition2026": 8656274.3,
+      "semesterEstimate2026": 4328137.15,
+      "changeAmount": 263777.1000000015,
+      "changeRate": 3.1430108788121074,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7380269.2,
+        "naturalScience": 8872540.9,
+        "artsSports": 9356779.8,
+        "engineering": 9664391.3,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7606564.7,
+        "naturalScience": 9180593.1,
+        "artsSports": 9608311.7,
+        "engineering": 9929717.8,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-b563a6332f",
+      "schoolName": "동국대학교(WISE) _분교",
+      "region": "경북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8380054.6,
+      "tuition2026": 8417791.5,
+      "semesterEstimate2026": 4208895.75,
+      "changeAmount": 37736.90000000037,
+      "changeRate": 0.45031806833335397,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7366320.1,
+        "naturalScience": 9109574.8,
+        "artsSports": 8919766.3,
+        "engineering": 9631875.5,
+        "medicine": 10709074.4
+      },
+      "disciplines2026": {
+        "humanities": 7374580.9,
+        "naturalScience": 9214499.6,
+        "artsSports": 8912364.2,
+        "engineering": 9633092.1,
+        "medicine": 10709074.4
+      }
+    },
+    {
+      "id": "school-7bb9ae4f36",
+      "schoolName": "동덕여자대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7882190.2,
+      "tuition2026": 8126346.6,
+      "semesterEstimate2026": 4063173.3,
+      "changeAmount": 244156.39999999944,
+      "changeRate": 3.09757052043732,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6314898.6,
+        "naturalScience": 8053097.4,
+        "artsSports": 9150580.8,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6495876.1,
+        "naturalScience": 8322753.2,
+        "artsSports": 9233316.2,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-2b63f9ad00",
+      "schoolName": "동명대학교",
+      "region": "부산",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7427185.3,
+      "tuition2026": 7663538.1,
+      "semesterEstimate2026": 3831769.05,
+      "changeAmount": 236352.7999999998,
+      "changeRate": 3.1822661001873724,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6238088.7,
+        "naturalScience": 8033054.1,
+        "artsSports": 7781953.9,
+        "engineering": 8140000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6307425.5,
+        "naturalScience": 8380838.9,
+        "artsSports": 8061445.8,
+        "engineering": 8300000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-27d295400b",
+      "schoolName": "동서대학교",
+      "region": "부산",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7311715.9,
+      "tuition2026": 7543205.4,
+      "semesterEstimate2026": 3771602.7,
+      "changeAmount": 231489.5,
+      "changeRate": 3.1660078587024962,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6262971.0,
+        "naturalScience": 8021620.1,
+        "artsSports": 7814572.5,
+        "engineering": 8002664.7,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6510674.9,
+        "naturalScience": 8252372.3,
+        "artsSports": 8044902.9,
+        "engineering": 8235967.1,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-d7cf6b0167",
+      "schoolName": "동신대학교",
+      "region": "전남광주",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7064104.4,
+      "tuition2026": 7249025.9,
+      "semesterEstimate2026": 3624512.95,
+      "changeAmount": 184921.5,
+      "changeRate": 2.6177628405378606,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6259122.7,
+        "naturalScience": 7173979.7,
+        "artsSports": 7263804.0,
+        "engineering": 7566970.0,
+        "medicine": 9498000.0
+      },
+      "disciplines2026": {
+        "humanities": 6471673.7,
+        "naturalScience": 7381158.4,
+        "artsSports": 7476168.1,
+        "engineering": 7780221.8,
+        "medicine": 9782000.0
+      }
+    },
+    {
+      "id": "school-8cf2df3930",
+      "schoolName": "동아대학교",
+      "region": "부산",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7655191.2,
+      "tuition2026": 7896057.5,
+      "semesterEstimate2026": 3948028.75,
+      "changeAmount": 240866.2999999998,
+      "changeRate": 3.1464439451231443,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6512553.6,
+        "naturalScience": 7713871.9,
+        "artsSports": 8370897.3,
+        "engineering": 8740772.3,
+        "medicine": 10925800.0
+      },
+      "disciplines2026": {
+        "humanities": 6742915.5,
+        "naturalScience": 8023607.5,
+        "artsSports": 8588957.8,
+        "engineering": 8938293.7,
+        "medicine": 11576800.0
+      }
+    },
+    {
+      "id": "school-cda53f0ed0",
+      "schoolName": "동양대학교",
+      "region": "경북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7706351.5,
+      "tuition2026": 7942642.8,
+      "semesterEstimate2026": 3971321.4,
+      "changeAmount": 236291.2999999998,
+      "changeRate": 3.06618897412089,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6416447.2,
+        "naturalScience": 7542611.0,
+        "artsSports": 8430596.7,
+        "engineering": 8019812.9,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6805608.8,
+        "naturalScience": 7744281.4,
+        "artsSports": 8650878.6,
+        "engineering": 8236573.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-854da99e21",
+      "schoolName": "동의대학교",
+      "region": "부산",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7346090.8,
+      "tuition2026": 7580400.9,
+      "semesterEstimate2026": 3790200.45,
+      "changeAmount": 234310.10000000056,
+      "changeRate": 3.1895889443675345,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6167765.1,
+        "naturalScience": 7499800.5,
+        "artsSports": 7842883.5,
+        "engineering": 8282909.2,
+        "medicine": 9094000.0
+      },
+      "disciplines2026": {
+        "humanities": 6382756.2,
+        "naturalScience": 7908910.0,
+        "artsSports": 8098839.2,
+        "engineering": 8571071.3,
+        "medicine": 9418000.0
+      }
+    },
+    {
+      "id": "school-5ee1d0ecc4",
+      "schoolName": "루터대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6334500.0,
+      "tuition2026": 6300000.0,
+      "semesterEstimate2026": 3150000.0,
+      "changeAmount": -34500.0,
+      "changeRate": -0.5446365143263082,
+      "changeStatus": "decrease",
+      "disciplines2025": {
+        "humanities": 6334500.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6300000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-9a2e18045d",
+      "schoolName": "명지대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 9592689.4,
+      "tuition2026": 9829417.3,
+      "semesterEstimate2026": 4914708.65,
+      "changeAmount": 236727.90000000037,
+      "changeRate": 2.467794902230446,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": 8712329.0,
+        "artsSports": 9958595.6,
+        "engineering": 9668650.6,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": 8911295.4,
+        "artsSports": 10222502.2,
+        "engineering": 9941893.3,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-8f0b40f145",
+      "schoolName": "명지대학교 _제2캠퍼스",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7445643.1,
+      "tuition2026": 7737615.2,
+      "semesterEstimate2026": 3868807.6,
+      "changeAmount": 291972.10000000056,
+      "changeRate": 3.9213818884227822,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7148217.5,
+        "naturalScience": 8832000.0,
+        "artsSports": null,
+        "engineering": 9593365.9,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7349160.5,
+        "naturalScience": 8878000.0,
+        "artsSports": null,
+        "engineering": 9859500.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-1a904381ff",
+      "schoolName": "목원대학교",
+      "region": "대전",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7722257.3,
+      "tuition2026": 7965994.0,
+      "semesterEstimate2026": 3982997.0,
+      "changeAmount": 243736.7000000002,
+      "changeRate": 3.156288252658976,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6753972.6,
+        "naturalScience": 7659121.5,
+        "artsSports": 8417075.7,
+        "engineering": 8488194.4,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6956369.4,
+        "naturalScience": 7911823.6,
+        "artsSports": 8664045.1,
+        "engineering": 8742351.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-43abe0f3b5",
+      "schoolName": "목포가톨릭대학교",
+      "region": "전남광주",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6554800.0,
+      "tuition2026": 6758000.0,
+      "semesterEstimate2026": 3379000.0,
+      "changeAmount": 203200.0,
+      "changeRate": 3.1000183071947274,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 5648210.5,
+        "naturalScience": 6837180.3,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 5805358.5,
+        "naturalScience": 7028000.0,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-73f8f76d42",
+      "schoolName": "배재대학교",
+      "region": "대전",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7731641.1,
+      "tuition2026": 7959587.6,
+      "semesterEstimate2026": 3979793.8,
+      "changeAmount": 227946.5,
+      "changeRate": 2.9482291928941193,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6802695.3,
+        "naturalScience": 7697582.5,
+        "artsSports": 8419215.8,
+        "engineering": 8416000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6976726.3,
+        "naturalScience": 7898608.0,
+        "artsSports": 8629040.5,
+        "engineering": 8626000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-31969f1e13",
+      "schoolName": "백석대학교",
+      "region": "충남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8362803.7,
+      "tuition2026": 8626213.5,
+      "semesterEstimate2026": 4313106.75,
+      "changeAmount": 263409.7999999998,
+      "changeRate": 3.149778584423784,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7337352.4,
+        "naturalScience": 8816437.4,
+        "artsSports": 9458861.9,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7557371.4,
+        "naturalScience": 9042166.9,
+        "artsSports": 9737806.0,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-d8d3233deb",
+      "schoolName": "부산가톨릭대학교",
+      "region": "부산",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7245362.2,
+      "tuition2026": 7470200.0,
+      "semesterEstimate2026": 3735100.0,
+      "changeAmount": 224837.7999999998,
+      "changeRate": 3.1031961383517834,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6270000.0,
+        "naturalScience": 7348668.1,
+        "artsSports": null,
+        "engineering": 8022000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6452000.0,
+        "naturalScience": 7563000.0,
+        "artsSports": null,
+        "engineering": 8255000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-fc53ac39a5",
+      "schoolName": "부산대학교",
+      "region": "부산",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 4472115.7,
+      "tuition2026": 4514543.2,
+      "semesterEstimate2026": 2257271.6,
+      "changeAmount": 42427.5,
+      "changeRate": 0.9487120380181577,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 3440565.2,
+        "naturalScience": 4638534.9,
+        "artsSports": 4734852.6,
+        "engineering": 4728000.0,
+        "medicine": 10100000.0
+      },
+      "disciplines2026": {
+        "humanities": 3484151.0,
+        "naturalScience": 4753342.6,
+        "artsSports": 4736970.3,
+        "engineering": 4726107.2,
+        "medicine": 10100000.0
+      }
+    },
+    {
+      "id": "school-11d126dc8b",
+      "schoolName": "부산외국어대학교",
+      "region": "부산",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6734485.2,
+      "tuition2026": 6947305.6,
+      "semesterEstimate2026": 3473652.8,
+      "changeAmount": 212820.39999999944,
+      "changeRate": 3.1601584037930537,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6654071.4,
+        "naturalScience": null,
+        "artsSports": 6933000.0,
+        "engineering": 7762000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6924087.1,
+        "naturalScience": null,
+        "artsSports": 6967440.0,
+        "engineering": 7762000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-ad7734bfb7",
+      "schoolName": "부산장신대학교",
+      "region": "경남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6133687.5,
+      "tuition2026": 6316875.0,
+      "semesterEstimate2026": 3158437.5,
+      "changeAmount": 183187.5,
+      "changeRate": 2.9865802586127836,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6133687.5,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6316875.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-660b002d3b",
+      "schoolName": "삼육대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8278362.1,
+      "tuition2026": 8537542.9,
+      "semesterEstimate2026": 4268771.45,
+      "changeAmount": 259180.80000000075,
+      "changeRate": 3.1308222190474218,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7286535.9,
+        "naturalScience": 8448999.3,
+        "artsSports": 9176577.6,
+        "engineering": 8771599.3,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7575661.8,
+        "naturalScience": 8710709.3,
+        "artsSports": 9402935.6,
+        "engineering": 8989438.7,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-470c776111",
+      "schoolName": "상명대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8173318.3,
+      "tuition2026": 8417417.1,
+      "semesterEstimate2026": 4208708.55,
+      "changeAmount": 244098.7999999998,
+      "changeRate": 2.9865324099760047,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7193793.0,
+        "naturalScience": 8390669.9,
+        "artsSports": 9613192.8,
+        "engineering": 9061481.4,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7460853.3,
+        "naturalScience": 8622168.8,
+        "artsSports": 9856374.4,
+        "engineering": 9241646.1,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-b6450c7d71",
+      "schoolName": "상명대학교 _제2캠퍼스",
+      "region": "충남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8535797.4,
+      "tuition2026": 8772147.7,
+      "semesterEstimate2026": 4386073.85,
+      "changeAmount": 236350.29999999888,
+      "changeRate": 2.768930527802814,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7011163.7,
+        "naturalScience": 8502345.5,
+        "artsSports": 8988349.3,
+        "engineering": 8841358.2,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7257256.6,
+        "naturalScience": 8741507.0,
+        "artsSports": 9226742.4,
+        "engineering": 9058814.4,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-74086e4eae",
+      "schoolName": "상지대학교",
+      "region": "강원",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7859253.5,
+      "tuition2026": 8102877.5,
+      "semesterEstimate2026": 4051438.75,
+      "changeAmount": 243624.0,
+      "changeRate": 3.0998363903136603,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7023046.2,
+        "naturalScience": 8146406.6,
+        "artsSports": 8106854.3,
+        "engineering": 8719839.8,
+        "medicine": 10338000.0
+      },
+      "disciplines2026": {
+        "humanities": 7263773.6,
+        "naturalScience": 8397549.3,
+        "artsSports": 8327680.0,
+        "engineering": 8979196.6,
+        "medicine": 10338000.0
+      }
+    },
+    {
+      "id": "school-76fe623688",
+      "schoolName": "서강대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8439438.6,
+      "tuition2026": 8698676.8,
+      "semesterEstimate2026": 4349338.4,
+      "changeAmount": 259238.20000000112,
+      "changeRate": 3.0717469761555125,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7658999.7,
+        "naturalScience": 8943460.3,
+        "artsSports": null,
+        "engineering": 9899012.1,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7895046.4,
+        "naturalScience": 9211635.3,
+        "artsSports": null,
+        "engineering": 10146113.3,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-55457aeb7b",
+      "schoolName": "서경대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8422266.4,
+      "tuition2026": 8688695.9,
+      "semesterEstimate2026": 4344347.95,
+      "changeAmount": 266429.5,
+      "changeRate": 3.163394356654403,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6838090.9,
+        "naturalScience": 7854000.0,
+        "artsSports": 8959122.6,
+        "engineering": 8899395.3,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6982337.7,
+        "naturalScience": 7854000.0,
+        "artsSports": 9022061.5,
+        "engineering": 9080274.5,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-ab9f4dbc01",
+      "schoolName": "서울과학기술대학교",
+      "region": "서울",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 5494399.4,
+      "tuition2026": 5494477.2,
+      "semesterEstimate2026": 2747238.6,
+      "changeAmount": 77.79999999981374,
+      "changeRate": 0.001415987341579386,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 4744838.0,
+        "naturalScience": 5540420.0,
+        "artsSports": 5567222.5,
+        "engineering": 5585268.8,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 4746029.7,
+        "naturalScience": 5540420.0,
+        "artsSports": 5581839.9,
+        "engineering": 5577278.9,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-20dac01e59",
+      "schoolName": "서울기독대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7913735.3,
+      "tuition2026": 8139117.6,
+      "semesterEstimate2026": 4069558.8,
+      "changeAmount": 225382.2999999998,
+      "changeRate": 2.8479888631099377,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7141692.3,
+        "naturalScience": null,
+        "artsSports": 8952000.0,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7322000.0,
+        "naturalScience": null,
+        "artsSports": 9238000.0,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-165830225e",
+      "schoolName": "서울대학교",
+      "region": "서울",
+      "establishmentType": "국립대법인",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6058797.7,
+      "tuition2026": 6091815.7,
+      "semesterEstimate2026": 3045907.85,
+      "changeAmount": 33018.0,
+      "changeRate": 0.5449596047743928,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 5030003.4,
+        "naturalScience": 6109490.7,
+        "artsSports": 7392814.0,
+        "engineering": 6161354.9,
+        "medicine": 9896342.9
+      },
+      "disciplines2026": {
+        "humanities": 5033654.6,
+        "naturalScience": 6158241.4,
+        "artsSports": 7392814.0,
+        "engineering": 6228872.4,
+        "medicine": 9896342.9
+      }
+    },
+    {
+      "id": "school-e665793836",
+      "schoolName": "서울시립대학교",
+      "region": "서울",
+      "establishmentType": "공립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 2529571.5,
+      "tuition2026": 2531600.4,
+      "semesterEstimate2026": 1265800.2,
+      "changeAmount": 2028.8999999999069,
+      "changeRate": 0.08020726039963318,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 2160150.8,
+        "naturalScience": 2546035.4,
+        "artsSports": 3078560.6,
+        "engineering": 2848000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 2169633.8,
+        "naturalScience": 2546374.7,
+        "artsSports": 3078560.6,
+        "engineering": 2848000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-893fafa4d1",
+      "schoolName": "서울신학대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7637187.8,
+      "tuition2026": 7676276.8,
+      "semesterEstimate2026": 3838138.4,
+      "changeAmount": 39089.0,
+      "changeRate": 0.5118245226338417,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7133808.5,
+        "naturalScience": null,
+        "artsSports": 9008687.1,
+        "engineering": 9067637.8,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7157911.9,
+        "naturalScience": null,
+        "artsSports": 9009498.2,
+        "engineering": 9054725.4,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-c235744d25",
+      "schoolName": "서울여자대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7990814.1,
+      "tuition2026": 8244464.4,
+      "semesterEstimate2026": 4122232.2,
+      "changeAmount": 253650.30000000075,
+      "changeRate": 3.1742735699482827,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7129992.2,
+        "naturalScience": 8453118.4,
+        "artsSports": 9724397.6,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7348576.3,
+        "naturalScience": 8704725.6,
+        "artsSports": 10017184.1,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-9b07d5e5ce",
+      "schoolName": "서울장신대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7728884.6,
+      "tuition2026": 7781326.9,
+      "semesterEstimate2026": 3890663.45,
+      "changeAmount": 52442.300000000745,
+      "changeRate": 0.6785235220098997,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7167828.6,
+        "naturalScience": null,
+        "artsSports": 8884000.0,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7172388.1,
+        "naturalScience": null,
+        "artsSports": 8884000.0,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-b95165ee3f",
+      "schoolName": "서울한영대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7082277.8,
+      "tuition2026": 7245388.9,
+      "semesterEstimate2026": 3622694.45,
+      "changeAmount": 163111.10000000056,
+      "changeRate": 2.3030881392424423,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7018705.9,
+        "naturalScience": null,
+        "artsSports": 8163000.0,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7222514.3,
+        "naturalScience": null,
+        "artsSports": 8046000.0,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-d0774c2b82",
+      "schoolName": "서원대학교",
+      "region": "충북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7340153.8,
+      "tuition2026": 7574190.5,
+      "semesterEstimate2026": 3787095.25,
+      "changeAmount": 234036.7000000002,
+      "changeRate": 3.188444089550279,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6607487.1,
+        "naturalScience": 7719826.9,
+        "artsSports": 7727973.3,
+        "engineering": 8134761.3,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6821827.0,
+        "naturalScience": 7975836.4,
+        "artsSports": 7948071.4,
+        "engineering": 8371011.8,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-863c64a050",
+      "schoolName": "선문대학교",
+      "region": "충남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8004005.6,
+      "tuition2026": 8244256.0,
+      "semesterEstimate2026": 4122128.0,
+      "changeAmount": 240250.40000000037,
+      "changeRate": 3.0016270853183857,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7064201.9,
+        "naturalScience": 8511165.5,
+        "artsSports": 8325621.7,
+        "engineering": 8656140.1,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7343130.4,
+        "naturalScience": 8766150.4,
+        "artsSports": 8573141.9,
+        "engineering": 8914442.3,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-84786f2613",
+      "schoolName": "성결대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7621682.4,
+      "tuition2026": 7857086.3,
+      "semesterEstimate2026": 3928543.15,
+      "changeAmount": 235403.89999999944,
+      "changeRate": 3.0886081004897217,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6810862.0,
+        "naturalScience": null,
+        "artsSports": 9257593.2,
+        "engineering": 8551446.3,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7037293.9,
+        "naturalScience": null,
+        "artsSports": 9529190.9,
+        "engineering": 8803761.2,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-fd343c02a3",
+      "schoolName": "성공회대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7450011.2,
+      "tuition2026": 7626671.5,
+      "semesterEstimate2026": 3813335.75,
+      "changeAmount": 176660.2999999998,
+      "changeRate": 2.3712756297601243,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7285789.4,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": 7898721.2,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7479937.8,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": 8073972.6,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-3475d23207",
+      "schoolName": "성균관대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8905163.3,
+      "tuition2026": 9145523.9,
+      "semesterEstimate2026": 4572761.95,
+      "changeAmount": 240360.59999999963,
+      "changeRate": 2.6991150179132553,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 8107272.1,
+        "naturalScience": 9544152.0,
+        "artsSports": 9326137.3,
+        "engineering": 9603818.6,
+        "medicine": 11892000.0
+      },
+      "disciplines2026": {
+        "humanities": 8344582.9,
+        "naturalScience": 9812897.3,
+        "artsSports": 9593166.7,
+        "engineering": 9862845.3,
+        "medicine": 12236000.0
+      }
+    },
+    {
+      "id": "school-f759dc0a8c",
+      "schoolName": "성신여자대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8404243.1,
+      "tuition2026": 8437832.3,
+      "semesterEstimate2026": 4218916.15,
+      "changeAmount": 33589.20000000112,
+      "changeRate": 0.39966954311449077,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7226960.5,
+        "naturalScience": 8950244.6,
+        "artsSports": 9870472.0,
+        "engineering": 8579667.8,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7332134.0,
+        "naturalScience": 8961919.6,
+        "artsSports": 9869706.7,
+        "engineering": 8573152.5,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-5455cd6d25",
+      "schoolName": "세명대학교",
+      "region": "충북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7280563.3,
+      "tuition2026": 7503323.4,
+      "semesterEstimate2026": 3751661.7,
+      "changeAmount": 222760.10000000056,
+      "changeRate": 3.059654738528275,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6313323.1,
+        "naturalScience": 7593497.7,
+        "artsSports": 7955000.0,
+        "engineering": 7955000.0,
+        "medicine": 9318000.0
+      },
+      "disciplines2026": {
+        "humanities": 6507000.0,
+        "naturalScience": 7833218.5,
+        "artsSports": 8193000.0,
+        "engineering": 8037861.4,
+        "medicine": 9597000.0
+      }
+    },
+    {
+      "id": "school-fa66da814b",
+      "schoolName": "세종대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8388326.2,
+      "tuition2026": 8651037.4,
+      "semesterEstimate2026": 4325518.7,
+      "changeAmount": 262711.2000000002,
+      "changeRate": 3.1318667602602317,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6569375.0,
+        "naturalScience": 7986287.9,
+        "artsSports": 8888792.0,
+        "engineering": 9021138.3,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6760570.1,
+        "naturalScience": 8355370.0,
+        "artsSports": 9143860.0,
+        "engineering": 9243775.9,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-b518403952",
+      "schoolName": "세한대학교",
+      "region": "전남광주",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7766246.0,
+      "tuition2026": 8013059.4,
+      "semesterEstimate2026": 4006529.7,
+      "changeAmount": 246813.40000000037,
+      "changeRate": 3.178027067388805,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7286041.6,
+        "naturalScience": 7717290.2,
+        "artsSports": 7831589.0,
+        "engineering": 9073259.9,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7543134.5,
+        "naturalScience": 8046996.0,
+        "artsSports": 8037394.5,
+        "engineering": 9388097.6,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-406e2951a1",
+      "schoolName": "송원대학교",
+      "region": "전남광주",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6895898.1,
+      "tuition2026": 7106105.0,
+      "semesterEstimate2026": 3553052.5,
+      "changeAmount": 210206.90000000037,
+      "changeRate": 3.0482889531096813,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6195349.4,
+        "naturalScience": 7214454.1,
+        "artsSports": 7119826.3,
+        "engineering": 7271000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6387914.3,
+        "naturalScience": 7426507.2,
+        "artsSports": 7298950.8,
+        "engineering": 7454012.3,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-8d565ec5e9",
+      "schoolName": "수원가톨릭대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 5097000.0,
+      "tuition2026": 5249000.0,
+      "semesterEstimate2026": 2624500.0,
+      "changeAmount": 152000.0,
+      "changeRate": 2.9821463606042773,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 5097000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 5249000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-ecb0409798",
+      "schoolName": "수원대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7941876.5,
+      "tuition2026": 8195102.4,
+      "semesterEstimate2026": 4097551.2,
+      "changeAmount": 253225.90000000037,
+      "changeRate": 3.1884895213366815,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6516050.4,
+        "naturalScience": 7692000.0,
+        "artsSports": 8719402.6,
+        "engineering": 8470000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6698224.5,
+        "naturalScience": 7906000.0,
+        "artsSports": 8960145.3,
+        "engineering": 8694631.1,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-ff31901b4f",
+      "schoolName": "숙명여자대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8593005.8,
+      "tuition2026": 8825485.2,
+      "semesterEstimate2026": 4412742.6,
+      "changeAmount": 232479.3999999985,
+      "changeRate": 2.7054491223548167,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7513317.8,
+        "naturalScience": 9331286.8,
+        "artsSports": 10111384.9,
+        "engineering": 9860946.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7734063.7,
+        "naturalScience": 9625719.8,
+        "artsSports": 10353786.0,
+        "engineering": 10172966.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-6dcfa062fd",
+      "schoolName": "순천향대학교",
+      "region": "충남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8284598.3,
+      "tuition2026": 8540656.9,
+      "semesterEstimate2026": 4270328.45,
+      "changeAmount": 256058.60000000056,
+      "changeRate": 3.090778704382089,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7433137.1,
+        "naturalScience": 8477490.8,
+        "artsSports": 8157465.8,
+        "engineering": 8748342.3,
+        "medicine": 10536000.0
+      },
+      "disciplines2026": {
+        "humanities": 7647712.4,
+        "naturalScience": 8777831.6,
+        "artsSports": 8496704.5,
+        "engineering": 9000750.0,
+        "medicine": 10840000.0
+      }
+    },
+    {
+      "id": "school-8c30e6ac4f",
+      "schoolName": "숭실대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8408228.0,
+      "tuition2026": 8643438.3,
+      "semesterEstimate2026": 4321719.15,
+      "changeAmount": 235210.30000000075,
+      "changeRate": 2.7973825162685975,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7445773.0,
+        "naturalScience": 8624410.1,
+        "artsSports": 9319712.6,
+        "engineering": 9256059.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7690288.6,
+        "naturalScience": 8734029.0,
+        "artsSports": 9592425.3,
+        "engineering": 9557038.5,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-55c52db976",
+      "schoolName": "신경주대학교",
+      "region": "경북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7492471.5,
+      "tuition2026": 7637546.0,
+      "semesterEstimate2026": 3818773.0,
+      "changeAmount": 145074.5,
+      "changeRate": 1.9362702947885755,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6250186.9,
+        "naturalScience": 7846104.0,
+        "artsSports": 8448206.5,
+        "engineering": 7751372.5,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6390492.3,
+        "naturalScience": 8015513.2,
+        "artsSports": 8536289.8,
+        "engineering": 7833615.4,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-f20a031e8d",
+      "schoolName": "신라대학교",
+      "region": "부산",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7073302.5,
+      "tuition2026": 7298401.8,
+      "semesterEstimate2026": 3649200.9,
+      "changeAmount": 225099.2999999998,
+      "changeRate": 3.182379093782569,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 5986909.9,
+        "naturalScience": 7685264.2,
+        "artsSports": 7830697.4,
+        "engineering": 8408386.9,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6195400.3,
+        "naturalScience": 7932427.4,
+        "artsSports": 8058163.4,
+        "engineering": 8678445.6,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-cba7fc3f2e",
+      "schoolName": "신한대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 9525092.6,
+      "tuition2026": 9568571.4,
+      "semesterEstimate2026": 4784285.7,
+      "changeAmount": 43478.800000000745,
+      "changeRate": 0.4564659035440847,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7840000.0,
+        "naturalScience": 9500000.0,
+        "artsSports": null,
+        "engineering": 9980000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": 9500000.0,
+        "artsSports": null,
+        "engineering": 9980000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-86180484ba",
+      "schoolName": "신한대학교 _제2캠퍼스",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 9103881.7,
+      "tuition2026": 9156576.9,
+      "semesterEstimate2026": 4578288.45,
+      "changeAmount": 52695.20000000112,
+      "changeRate": 0.5788212296300063,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7840000.0,
+        "naturalScience": 9500000.0,
+        "artsSports": 9960000.0,
+        "engineering": 9980000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7840000.0,
+        "naturalScience": 9500000.0,
+        "artsSports": 9960000.0,
+        "engineering": 9980000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-c61963963f",
+      "schoolName": "아신대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6900000.0,
+      "tuition2026": 6900000.0,
+      "semesterEstimate2026": 3450000.0,
+      "changeAmount": 0.0,
+      "changeRate": 0.0,
+      "changeStatus": "same",
+      "disciplines2025": {
+        "humanities": 6900000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6900000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-c417cf41af",
+      "schoolName": "아주대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8794887.9,
+      "tuition2026": 9093154.8,
+      "semesterEstimate2026": 4546577.4,
+      "changeAmount": 298266.9000000004,
+      "changeRate": 3.3913667051970084,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7399934.9,
+        "naturalScience": 9005487.9,
+        "artsSports": 7143000.0,
+        "engineering": 9357433.2,
+        "medicine": 11824000.0
+      },
+      "disciplines2026": {
+        "humanities": 7640462.7,
+        "naturalScience": 9378681.5,
+        "artsSports": 7347000.0,
+        "engineering": 9618288.1,
+        "medicine": 12154000.0
+      }
+    },
+    {
+      "id": "school-2262007d8c",
+      "schoolName": "안양대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8024922.1,
+      "tuition2026": 8261377.2,
+      "semesterEstimate2026": 4130688.6,
+      "changeAmount": 236455.10000000056,
+      "changeRate": 2.9465095991399166,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7004388.7,
+        "naturalScience": 8445805.6,
+        "artsSports": 8854266.4,
+        "engineering": 8831795.9,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7208396.3,
+        "naturalScience": 8694356.2,
+        "artsSports": 9114743.8,
+        "engineering": 9046960.3,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-6597313a9b",
+      "schoolName": "안양대학교 _제2캠퍼스",
+      "region": "인천",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8845841.4,
+      "tuition2026": 9105397.9,
+      "semesterEstimate2026": 4552698.95,
+      "changeAmount": 259556.5,
+      "changeRate": 2.934220593193091,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": 8860241.4,
+        "engineering": 8824241.4,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": 9120000.0,
+        "engineering": 9082982.5,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-8c0fe037a8",
+      "schoolName": "연세대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 9660089.5,
+      "tuition2026": 9957805.4,
+      "semesterEstimate2026": 4978902.7,
+      "changeAmount": 297715.9000000004,
+      "changeRate": 3.08191658058655,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 8912458.3,
+        "naturalScience": 9581624.7,
+        "artsSports": 10020845.7,
+        "engineering": 10317152.7,
+        "medicine": 12706000.0
+      },
+      "disciplines2026": {
+        "humanities": 9223142.2,
+        "naturalScience": 9825159.3,
+        "artsSports": 10279295.5,
+        "engineering": 10652687.5,
+        "medicine": 13036000.0
+      }
+    },
+    {
+      "id": "school-9145089d8f",
+      "schoolName": "연세대학교(미래) _분교",
+      "region": "강원",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 9063319.2,
+      "tuition2026": 9304672.8,
+      "semesterEstimate2026": 4652336.4,
+      "changeAmount": 241353.6000000015,
+      "changeRate": 2.6629714200069388,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 8523742.9,
+        "naturalScience": 8917022.6,
+        "artsSports": null,
+        "engineering": 9678076.9,
+        "medicine": 12706000.0
+      },
+      "disciplines2026": {
+        "humanities": 8743310.6,
+        "naturalScience": 9145773.8,
+        "artsSports": null,
+        "engineering": 9934829.0,
+        "medicine": 13036000.0
+      }
+    },
+    {
+      "id": "school-d9b848d6da",
+      "schoolName": "영남대학교",
+      "region": "경북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7845686.1,
+      "tuition2026": 8072811.3,
+      "semesterEstimate2026": 4036405.65,
+      "changeAmount": 227125.2000000002,
+      "changeRate": 2.894905520117612,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6266537.1,
+        "naturalScience": 8755451.7,
+        "artsSports": 9306854.6,
+        "engineering": 8630425.6,
+        "medicine": 11238000.0
+      },
+      "disciplines2026": {
+        "humanities": 6504718.1,
+        "naturalScience": 9076143.9,
+        "artsSports": 9561870.1,
+        "engineering": 8877191.9,
+        "medicine": 11554000.0
+      }
+    },
+    {
+      "id": "school-399b2a3af8",
+      "schoolName": "영남신학대학교",
+      "region": "경북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6614000.0,
+      "tuition2026": 6812000.0,
+      "semesterEstimate2026": 3406000.0,
+      "changeAmount": 198000.0,
+      "changeRate": 2.9936498336861206,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6614000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6812000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-585a80555d",
+      "schoolName": "영산대학교(양산) _제2캠퍼스",
+      "region": "경남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7057917.4,
+      "tuition2026": 7223987.2,
+      "semesterEstimate2026": 3611993.6,
+      "changeAmount": 166069.7999999998,
+      "changeRate": 2.3529575452384837,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6127391.3,
+        "naturalScience": 7998000.0,
+        "artsSports": 7336000.0,
+        "engineering": 8180000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6510579.1,
+        "naturalScience": 8292000.0,
+        "artsSports": 7606000.0,
+        "engineering": 8480000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-9fc3439f78",
+      "schoolName": "영산대학교(해운대)",
+      "region": "부산",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7244899.2,
+      "tuition2026": 7544721.2,
+      "semesterEstimate2026": 3772360.6,
+      "changeAmount": 299822.0,
+      "changeRate": 4.138387460242373,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6038000.0,
+        "naturalScience": 7842000.0,
+        "artsSports": 7689587.8,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6262000.0,
+        "naturalScience": 8130000.0,
+        "artsSports": 7944819.8,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-514dc1eff2",
+      "schoolName": "영산선학대학교",
+      "region": "전남광주",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 2000000.0,
+      "tuition2026": 2000000.0,
+      "semesterEstimate2026": 1000000.0,
+      "changeAmount": 0.0,
+      "changeRate": 0.0,
+      "changeStatus": "same",
+      "disciplines2025": {
+        "humanities": 2000000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 2000000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-bc4c3907fa",
+      "schoolName": "예수대학교",
+      "region": "전북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7273000.0,
+      "tuition2026": 7491000.0,
+      "semesterEstimate2026": 3745500.0,
+      "changeAmount": 218000.0,
+      "changeRate": 2.9973875979650764,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": 7273000.0,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": 7491000.0,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-0a6c34a4bd",
+      "schoolName": "예원예술대학교",
+      "region": "전북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8504806.2,
+      "tuition2026": 8665159.6,
+      "semesterEstimate2026": 4332579.8,
+      "changeAmount": 160353.40000000037,
+      "changeRate": 1.8854444913747757,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": 8504806.2,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": 8665159.6,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-7fc9d93a03",
+      "schoolName": "예원예술대학교 _제2캠퍼스",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8828407.1,
+      "tuition2026": 9026715.3,
+      "semesterEstimate2026": 4513357.65,
+      "changeAmount": 198308.20000000112,
+      "changeRate": 2.2462511951901396,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": 8828407.1,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": 9026715.3,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-7896f9dd5f",
+      "schoolName": "용인대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8160711.2,
+      "tuition2026": 8397852.6,
+      "semesterEstimate2026": 4198926.3,
+      "changeAmount": 237141.39999999944,
+      "changeRate": 2.9058913394705037,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7299067.6,
+        "naturalScience": 8088355.1,
+        "artsSports": 8476336.5,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7512159.5,
+        "naturalScience": 8324617.0,
+        "artsSports": 8709348.4,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-a70179c653",
+      "schoolName": "우석대학교",
+      "region": "전북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7287330.8,
+      "tuition2026": 7519491.2,
+      "semesterEstimate2026": 3759745.6,
+      "changeAmount": 232160.40000000037,
+      "changeRate": 3.1858084444307146,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6356619.4,
+        "naturalScience": 7855513.8,
+        "artsSports": 7294771.5,
+        "engineering": 8305226.7,
+        "medicine": 10041000.0
+      },
+      "disciplines2026": {
+        "humanities": 6540022.1,
+        "naturalScience": 8210412.7,
+        "artsSports": 7453884.1,
+        "engineering": 8477883.0,
+        "medicine": 10287000.0
+      }
+    },
+    {
+      "id": "school-fe14f34418",
+      "schoolName": "우송대학교",
+      "region": "대전",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7593389.1,
+      "tuition2026": 7817764.1,
+      "semesterEstimate2026": 3908882.05,
+      "changeAmount": 224375.0,
+      "changeRate": 2.9548729433606926,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7553564.8,
+        "naturalScience": 7674829.8,
+        "artsSports": 7747642.9,
+        "engineering": 7547177.2,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7789460.8,
+        "naturalScience": 7878798.6,
+        "artsSports": 7942204.5,
+        "engineering": 7773603.6,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-08825e7898",
+      "schoolName": "울산과학기술원",
+      "region": "울산",
+      "establishmentType": "특별법법인",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6554198.7,
+      "tuition2026": 6554850.0,
+      "semesterEstimate2026": 3277425.0,
+      "changeAmount": 651.2999999998137,
+      "changeRate": 0.00993714151509953,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 5591000.0,
+        "naturalScience": 6633000.0,
+        "artsSports": null,
+        "engineering": 6633000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 5591000.0,
+        "naturalScience": 6633000.0,
+        "artsSports": null,
+        "engineering": 6633000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-89ea5df237",
+      "schoolName": "울산대학교",
+      "region": "울산",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7730241.2,
+      "tuition2026": 7966453.2,
+      "semesterEstimate2026": 3983226.6,
+      "changeAmount": 236212.0,
+      "changeRate": 3.0556873180102064,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6036000.0,
+        "naturalScience": 8069506.7,
+        "artsSports": 8769190.9,
+        "engineering": 8538343.6,
+        "medicine": 11462000.0
+      },
+      "disciplines2026": {
+        "humanities": 6180000.0,
+        "naturalScience": 8499963.5,
+        "artsSports": 8953601.7,
+        "engineering": 8745167.4,
+        "medicine": 11736000.0
+      }
+    },
+    {
+      "id": "school-eecea44f3c",
+      "schoolName": "원광대학교",
+      "region": "전북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7864062.3,
+      "tuition2026": 8114465.8,
+      "semesterEstimate2026": 4057232.9,
+      "changeAmount": 250403.5,
+      "changeRate": 3.184149494848229,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6406252.1,
+        "naturalScience": 8295575.6,
+        "artsSports": 7837933.1,
+        "engineering": 8364987.1,
+        "medicine": 10510053.2
+      },
+      "disciplines2026": {
+        "humanities": 6595002.3,
+        "naturalScience": 8583141.4,
+        "artsSports": 7971241.7,
+        "engineering": 8507368.5,
+        "medicine": 11030258.6
+      }
+    },
+    {
+      "id": "school-38a7fe8ddf",
+      "schoolName": "위덕대학교",
+      "region": "경북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7299169.0,
+      "tuition2026": 7312427.9,
+      "semesterEstimate2026": 3656213.95,
+      "changeAmount": 13258.900000000373,
+      "changeRate": 0.18164944529987417,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6360244.5,
+        "naturalScience": 7993705.1,
+        "artsSports": 8428000.0,
+        "engineering": 7988000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6336101.9,
+        "naturalScience": 7999471.9,
+        "artsSports": 8428000.0,
+        "engineering": 7988000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-f38e748258",
+      "schoolName": "유원대학교",
+      "region": "충북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7202405.7,
+      "tuition2026": 7193377.1,
+      "semesterEstimate2026": 3596688.55,
+      "changeAmount": -9028.600000000559,
+      "changeRate": -0.1253553378699642,
+      "changeStatus": "decrease",
+      "disciplines2025": {
+        "humanities": 6300000.0,
+        "naturalScience": 7880000.0,
+        "artsSports": 7880000.0,
+        "engineering": 7880000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6325549.8,
+        "naturalScience": 7880000.0,
+        "artsSports": 7880000.0,
+        "engineering": 7880000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-eaaf89439c",
+      "schoolName": "을지대학교",
+      "region": "대전",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 10969266.7,
+      "tuition2026": 11280388.9,
+      "semesterEstimate2026": 5640194.45,
+      "changeAmount": 311122.2000000011,
+      "changeRate": 2.8363081007046818,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": 11158142.9,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": 10804000.0
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": 11411900.0,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": 11116000.0
+      }
+    },
+    {
+      "id": "school-8841935e81",
+      "schoolName": "을지대학교 _제2캠퍼스",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8838078.6,
+      "tuition2026": 9079638.6,
+      "semesterEstimate2026": 4539819.3,
+      "changeAmount": 241560.0,
+      "changeRate": 2.733173248764726,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 8483028.0,
+        "naturalScience": 8892319.3,
+        "artsSports": 9564000.0,
+        "engineering": 9010363.6,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 8780315.1,
+        "naturalScience": 9133165.1,
+        "artsSports": 9840000.0,
+        "engineering": 9271090.9,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-8adf73462e",
+      "schoolName": "을지대학교 _제3캠퍼스",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8682056.0,
+      "tuition2026": 8984798.6,
+      "semesterEstimate2026": 4492399.3,
+      "changeAmount": 302742.5999999996,
+      "changeRate": 3.486992021244733,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 8462021.0,
+        "naturalScience": 8776000.0,
+        "artsSports": 8482000.0,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 8921071.9,
+        "naturalScience": 9026950.0,
+        "artsSports": 8726000.0,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-d03fc6d402",
+      "schoolName": "이화여자대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 9025874.9,
+      "tuition2026": 9311388.0,
+      "semesterEstimate2026": 4655694.0,
+      "changeAmount": 285513.0999999996,
+      "changeRate": 3.1632734018948083,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7854748.0,
+        "naturalScience": 9558988.5,
+        "artsSports": 10296099.5,
+        "engineering": 9793873.3,
+        "medicine": 13296000.0
+      },
+      "disciplines2026": {
+        "humanities": 8085090.9,
+        "naturalScience": 9907258.8,
+        "artsSports": 10597893.8,
+        "engineering": 10070597.3,
+        "medicine": 13688000.0
+      }
+    },
+    {
+      "id": "school-2a9d10aec5",
+      "schoolName": "인제대학교",
+      "region": "경남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7701980.4,
+      "tuition2026": 7926630.2,
+      "semesterEstimate2026": 3963315.1,
+      "changeAmount": 224649.7999999998,
+      "changeRate": 2.9167796895458187,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6002948.6,
+        "naturalScience": 7968655.7,
+        "artsSports": 7587691.2,
+        "engineering": 8215257.0,
+        "medicine": 10480500.0
+      },
+      "disciplines2026": {
+        "humanities": 6204496.3,
+        "naturalScience": 8142347.8,
+        "artsSports": 7648676.8,
+        "engineering": 8483040.2,
+        "medicine": 10927000.0
+      }
+    },
+    {
+      "id": "school-ead4aa8b81",
+      "schoolName": "인천가톨릭대학교",
+      "region": "인천",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 5446000.0,
+      "tuition2026": 5446000.0,
+      "semesterEstimate2026": 2723000.0,
+      "changeAmount": 0.0,
+      "changeRate": 0.0,
+      "changeStatus": "same",
+      "disciplines2025": {
+        "humanities": 5446000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 5446000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-8c2249fc06",
+      "schoolName": "인천가톨릭대학교 _제2캠퍼스",
+      "region": "인천",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8842141.8,
+      "tuition2026": 9109951.0,
+      "semesterEstimate2026": 4554975.5,
+      "changeAmount": 267809.19999999925,
+      "changeRate": 3.028782008449573,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": 9038634.8,
+        "artsSports": 8757668.2,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": 9306500.0,
+        "artsSports": 9020100.0,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-4f65591a9e",
+      "schoolName": "인천대학교",
+      "region": "인천",
+      "establishmentType": "국립대법인",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 4651923.7,
+      "tuition2026": 4650414.5,
+      "semesterEstimate2026": 2325207.25,
+      "changeAmount": -1509.2000000001863,
+      "changeRate": -0.03244249255421335,
+      "changeStatus": "decrease",
+      "disciplines2025": {
+        "humanities": 4169448.6,
+        "naturalScience": 4537885.2,
+        "artsSports": 4863836.2,
+        "engineering": 5148000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 4169025.6,
+        "naturalScience": 4538166.3,
+        "artsSports": 4863836.2,
+        "engineering": 5148000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-4c7509a690",
+      "schoolName": "인하대학교",
+      "region": "인천",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8223784.8,
+      "tuition2026": 8490347.9,
+      "semesterEstimate2026": 4245173.95,
+      "changeAmount": 266563.10000000056,
+      "changeRate": 3.241367648628166,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7149084.0,
+        "naturalScience": 8561005.4,
+        "artsSports": 8664514.8,
+        "engineering": 8878143.6,
+        "medicine": 11098000.0
+      },
+      "disciplines2026": {
+        "humanities": 7417345.9,
+        "naturalScience": 8910660.6,
+        "artsSports": 8915933.6,
+        "engineering": 9136050.4,
+        "medicine": 11420000.0
+      }
+    },
+    {
+      "id": "school-51a7b678dc",
+      "schoolName": "장로회신학대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7202000.0,
+      "tuition2026": 7308300.0,
+      "semesterEstimate2026": 3654150.0,
+      "changeAmount": 106300.0,
+      "changeRate": 1.475978894751458,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6265000.0,
+        "naturalScience": null,
+        "artsSports": 9076000.0,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6379135.8,
+        "naturalScience": null,
+        "artsSports": 9238102.6,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-49499dd2cd",
+      "schoolName": "전남대학교",
+      "region": "전남광주",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 4193327.5,
+      "tuition2026": 4222785.6,
+      "semesterEstimate2026": 2111392.8,
+      "changeAmount": 29458.099999999627,
+      "changeRate": 0.7024993874196477,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 3422465.9,
+        "naturalScience": 4277104.1,
+        "artsSports": 4525349.1,
+        "engineering": 4440000.0,
+        "medicine": 6087333.3
+      },
+      "disciplines2026": {
+        "humanities": 3428852.7,
+        "naturalScience": 4271720.0,
+        "artsSports": 4525349.1,
+        "engineering": 4440000.0,
+        "medicine": 6118363.6
+      }
+    },
+    {
+      "id": "school-02b0d1f51f",
+      "schoolName": "전남대학교 _제2캠퍼스",
+      "region": "전남광주",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 4091933.4,
+      "tuition2026": 4089474.5,
+      "semesterEstimate2026": 2044737.25,
+      "changeAmount": -2458.899999999907,
+      "changeRate": -0.0600913983595116,
+      "changeStatus": "decrease",
+      "disciplines2025": {
+        "humanities": 3489969.7,
+        "naturalScience": 4100000.0,
+        "artsSports": null,
+        "engineering": 4368177.7,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 3526660.6,
+        "naturalScience": 4100000.0,
+        "artsSports": null,
+        "engineering": 4369234.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-37cc3a321a",
+      "schoolName": "전북대학교",
+      "region": "전북",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 4447738.3,
+      "tuition2026": 4461484.3,
+      "semesterEstimate2026": 2230742.15,
+      "changeAmount": 13746.0,
+      "changeRate": 0.30905595322458607,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 3322000.0,
+        "naturalScience": 4459184.7,
+        "artsSports": 4674090.5,
+        "engineering": 4580101.7,
+        "medicine": 8811637.9
+      },
+      "disciplines2026": {
+        "humanities": 3322000.0,
+        "naturalScience": 4496387.4,
+        "artsSports": 4673451.1,
+        "engineering": 4565041.0,
+        "medicine": 8609100.2
+      }
+    },
+    {
+      "id": "school-a10fc19c84",
+      "schoolName": "전주대학교",
+      "region": "전북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7326872.5,
+      "tuition2026": 7543384.2,
+      "semesterEstimate2026": 3771692.1,
+      "changeAmount": 216511.7000000002,
+      "changeRate": 2.955035726362103,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6534339.0,
+        "naturalScience": 7603496.7,
+        "artsSports": 7834388.3,
+        "engineering": 8264000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6786489.9,
+        "naturalScience": 7855013.0,
+        "artsSports": 8033298.5,
+        "engineering": 8526000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-9b542fd13f",
+      "schoolName": "제주국제대학교",
+      "region": "제주",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 5824216.2,
+      "tuition2026": 5819108.1,
+      "semesterEstimate2026": 2909554.05,
+      "changeAmount": -5108.100000000559,
+      "changeRate": -0.08770450520021146,
+      "changeStatus": "decrease",
+      "disciplines2025": {
+        "humanities": 5498742.9,
+        "naturalScience": 5976000.0,
+        "artsSports": 6003627.9,
+        "engineering": 6003529.4,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 5498000.0,
+        "naturalScience": null,
+        "artsSports": 6004285.7,
+        "engineering": 6003000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-e623714dcb",
+      "schoolName": "제주대학교",
+      "region": "제주",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 4028696.6,
+      "tuition2026": 4060630.6,
+      "semesterEstimate2026": 2030315.3,
+      "changeAmount": 31934.0,
+      "changeRate": 0.792663314482406,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 3243582.1,
+        "naturalScience": 4327890.2,
+        "artsSports": 4244031.3,
+        "engineering": 4347486.2,
+        "medicine": 8263000.0
+      },
+      "disciplines2026": {
+        "humanities": 3255560.5,
+        "naturalScience": 4417705.5,
+        "artsSports": 4244031.3,
+        "engineering": 4347332.9,
+        "medicine": 8263000.0
+      }
+    },
+    {
+      "id": "school-0a0f235248",
+      "schoolName": "조선대학교",
+      "region": "전남광주",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7477306.4,
+      "tuition2026": 7718958.2,
+      "semesterEstimate2026": 3859479.1,
+      "changeAmount": 241651.7999999998,
+      "changeRate": 3.2318028321000702,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6109188.9,
+        "naturalScience": 8025620.3,
+        "artsSports": 7683156.5,
+        "engineering": 8084843.2,
+        "medicine": 11204000.0
+      },
+      "disciplines2026": {
+        "humanities": 6278112.4,
+        "naturalScience": 8337921.3,
+        "artsSports": 7913536.1,
+        "engineering": 8326883.0,
+        "medicine": 11540000.0
+      }
+    },
+    {
+      "id": "school-c00040e741",
+      "schoolName": "중부대학교",
+      "region": "충남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7607472.7,
+      "tuition2026": 7846832.5,
+      "semesterEstimate2026": 3923416.25,
+      "changeAmount": 239359.7999999998,
+      "changeRate": 3.146377377075567,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7078054.2,
+        "naturalScience": 7729663.2,
+        "artsSports": 8213586.0,
+        "engineering": 8096590.3,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7311099.9,
+        "naturalScience": 7985988.0,
+        "artsSports": 8463070.8,
+        "engineering": 8336854.5,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-c4deb88e2c",
+      "schoolName": "중앙대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8363819.1,
+      "tuition2026": 8587174.5,
+      "semesterEstimate2026": 4293587.25,
+      "changeAmount": 223355.40000000037,
+      "changeRate": 2.670495348231532,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7197000.0,
+        "naturalScience": 9017151.2,
+        "artsSports": 9372523.8,
+        "engineering": 9530476.5,
+        "medicine": 11536000.0
+      },
+      "disciplines2026": {
+        "humanities": 7375806.6,
+        "naturalScience": 9295128.3,
+        "artsSports": 9604904.8,
+        "engineering": 9768650.5,
+        "medicine": 11824000.0
+      }
+    },
+    {
+      "id": "school-56ace441b2",
+      "schoolName": "중앙대학교 _제2캠퍼스",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 9165370.4,
+      "tuition2026": 9386076.4,
+      "semesterEstimate2026": 4693038.2,
+      "changeAmount": 220706.0,
+      "changeRate": 2.4080423416384784,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": 8379000.0,
+        "artsSports": 9444286.5,
+        "engineering": 9530715.1,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": 8587000.0,
+        "artsSports": 9669710.5,
+        "engineering": 9770619.3,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-493e4d3f58",
+      "schoolName": "중앙승가대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 1820000.0,
+      "tuition2026": 1820000.0,
+      "semesterEstimate2026": 910000.0,
+      "changeAmount": 0.0,
+      "changeRate": 0.0,
+      "changeStatus": "same",
+      "disciplines2025": {
+        "humanities": 1820000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 1820000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-c80253ebd3",
+      "schoolName": "중원대학교",
+      "region": "충북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7423544.2,
+      "tuition2026": 7659699.5,
+      "semesterEstimate2026": 3829849.75,
+      "changeAmount": 236155.2999999998,
+      "changeRate": 3.1811664837935476,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6304290.9,
+        "naturalScience": 7870916.5,
+        "artsSports": 7441507.1,
+        "engineering": 7854681.5,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6474411.3,
+        "naturalScience": 8130089.7,
+        "artsSports": 7665668.2,
+        "engineering": 8147442.2,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-26a4acba39",
+      "schoolName": "차의과학대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7568914.7,
+      "tuition2026": 7762597.4,
+      "semesterEstimate2026": 3881298.7,
+      "changeAmount": 193682.7000000002,
+      "changeRate": 2.55892301177605,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7101799.1,
+        "naturalScience": 7942607.1,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7218711.8,
+        "naturalScience": 8328511.1,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-2178d9389c",
+      "schoolName": "창신대학교",
+      "region": "경남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6752313.4,
+      "tuition2026": 6964561.1,
+      "semesterEstimate2026": 3482280.55,
+      "changeAmount": 212247.69999999925,
+      "changeRate": 3.1433330686339183,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 5769180.7,
+        "naturalScience": 6994417.4,
+        "artsSports": 7089517.2,
+        "engineering": 7824975.6,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6014000.0,
+        "naturalScience": 7209661.5,
+        "artsSports": 7308235.3,
+        "engineering": 7717461.5,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-94ec1dd5b6",
+      "schoolName": "청주대학교",
+      "region": "충북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8062329.9,
+      "tuition2026": 8319491.0,
+      "semesterEstimate2026": 4159745.5,
+      "changeAmount": 257161.09999999963,
+      "changeRate": 3.1896623332170964,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7281633.2,
+        "naturalScience": 8255529.7,
+        "artsSports": 8505359.4,
+        "engineering": 8684969.6,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7516247.4,
+        "naturalScience": 8491656.2,
+        "artsSports": 8798827.3,
+        "engineering": 8931423.1,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-d439accb15",
+      "schoolName": "초당대학교",
+      "region": "전남광주",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7018931.6,
+      "tuition2026": 7231632.4,
+      "semesterEstimate2026": 3615816.2,
+      "changeAmount": 212700.80000000075,
+      "changeRate": 3.030387131853525,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6010650.8,
+        "naturalScience": 7109424.5,
+        "artsSports": 6628307.7,
+        "engineering": 8128814.4,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6091007.3,
+        "naturalScience": 7390178.3,
+        "artsSports": 6887194.2,
+        "engineering": 8295423.5,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-5d6eedf02d",
+      "schoolName": "총신대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7336119.7,
+      "tuition2026": 7556237.0,
+      "semesterEstimate2026": 3778118.5,
+      "changeAmount": 220117.2999999998,
+      "changeRate": 3.000459493593048,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6933866.6,
+        "naturalScience": null,
+        "artsSports": 9220750.0,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7142163.0,
+        "naturalScience": null,
+        "artsSports": 9496250.0,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-517472e001",
+      "schoolName": "추계예술대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 9600692.0,
+      "tuition2026": 9898886.0,
+      "semesterEstimate2026": 4949443.0,
+      "changeAmount": 298194.0,
+      "changeRate": 3.1059636117896505,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7895238.1,
+        "naturalScience": null,
+        "artsSports": 10175256.7,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 8278900.8,
+        "naturalScience": null,
+        "artsSports": 10474002.7,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-822e5c0ba1",
+      "schoolName": "충남대학교",
+      "region": "대전",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 4387467.0,
+      "tuition2026": 4401836.0,
+      "semesterEstimate2026": 2200918.0,
+      "changeAmount": 14369.0,
+      "changeRate": 0.32750103875425157,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 3373207.0,
+        "naturalScience": 4297501.3,
+        "artsSports": 4589432.7,
+        "engineering": 4844000.0,
+        "medicine": 8308317.1
+      },
+      "disciplines2026": {
+        "humanities": 3374159.4,
+        "naturalScience": 4340093.4,
+        "artsSports": 4589432.7,
+        "engineering": 4815481.5,
+        "medicine": 8308317.1
+      }
+    },
+    {
+      "id": "school-8eaffeb1f4",
+      "schoolName": "충북대학교",
+      "region": "충북",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 4286467.0,
+      "tuition2026": 4305681.0,
+      "semesterEstimate2026": 2152840.5,
+      "changeAmount": 19214.0,
+      "changeRate": 0.4482479393869123,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 3515090.2,
+        "naturalScience": 4363621.8,
+        "artsSports": 4448214.3,
+        "engineering": 4597009.4,
+        "medicine": 7477557.9
+      },
+      "disciplines2026": {
+        "humanities": 3520974.1,
+        "naturalScience": 4379995.9,
+        "artsSports": 4448214.3,
+        "engineering": 4597348.4,
+        "medicine": 7362713.6
+      }
+    },
+    {
+      "id": "school-0801668332",
+      "schoolName": "칼빈대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8113055.6,
+      "tuition2026": 8030000.0,
+      "semesterEstimate2026": 4015000.0,
+      "changeAmount": -83055.59999999963,
+      "changeRate": -1.0237277308933965,
+      "changeStatus": "decrease",
+      "disciplines2025": {
+        "humanities": 7461176.5,
+        "naturalScience": 8780000.0,
+        "artsSports": 8680000.0,
+        "engineering": 8400000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7462500.0,
+        "naturalScience": 8780000.0,
+        "artsSports": 8680000.0,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-d605db23eb",
+      "schoolName": "평택대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7952521.6,
+      "tuition2026": 8198774.1,
+      "semesterEstimate2026": 4099387.05,
+      "changeAmount": 246252.5,
+      "changeRate": 3.0965335573561976,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7121487.1,
+        "naturalScience": 8266000.0,
+        "artsSports": 9186000.0,
+        "engineering": 8600723.4,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7403725.7,
+        "naturalScience": 8496000.0,
+        "artsSports": 9442000.0,
+        "engineering": 8845946.4,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-7d73e0278b",
+      "schoolName": "포항공과대학교",
+      "region": "경북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 5613500.0,
+      "tuition2026": 5613500.0,
+      "semesterEstimate2026": 2806750.0,
+      "changeAmount": 0.0,
+      "changeRate": 0.0,
+      "changeStatus": "same",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": 5613500.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": 5613500.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-2b2d636286",
+      "schoolName": "한경국립대학교",
+      "region": "경기",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 4020513.3,
+      "tuition2026": 4021297.0,
+      "semesterEstimate2026": 2010648.5,
+      "changeAmount": 783.7000000001863,
+      "changeRate": 0.019492535940626943,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 3604640.0,
+        "naturalScience": 3967440.0,
+        "artsSports": 4330040.0,
+        "engineering": 4148840.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 3604640.0,
+        "naturalScience": 3967440.0,
+        "artsSports": 4330040.0,
+        "engineering": 4148840.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-d4b90d7a1e",
+      "schoolName": "한국공학대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 9450433.9,
+      "tuition2026": 9449101.3,
+      "semesterEstimate2026": 4724550.65,
+      "changeAmount": -1332.5999999996275,
+      "changeRate": -0.01410093985208052,
+      "changeStatus": "decrease",
+      "disciplines2025": {
+        "humanities": 7943904.6,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": 9614481.5,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7948127.8,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": 9607286.3,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-9ddd58d1e1",
+      "schoolName": "한국과학기술원",
+      "region": "대전",
+      "establishmentType": "특별법법인",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6866000.0,
+      "tuition2026": 6866000.0,
+      "semesterEstimate2026": 3433000.0,
+      "changeAmount": 0.0,
+      "changeRate": 0.0,
+      "changeStatus": "same",
+      "disciplines2025": {
+        "humanities": 6866000.0,
+        "naturalScience": 6866000.0,
+        "artsSports": null,
+        "engineering": 6866000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6866000.0,
+        "naturalScience": 6866000.0,
+        "artsSports": null,
+        "engineering": 6866000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-65e8bd521a",
+      "schoolName": "한국교원대학교",
+      "region": "충북",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 3350393.8,
+      "tuition2026": 3456068.7,
+      "semesterEstimate2026": 1728034.35,
+      "changeAmount": 105674.90000000037,
+      "changeRate": 3.1541038548961136,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 3030000.0,
+        "naturalScience": 3664685.7,
+        "artsSports": 4009333.3,
+        "engineering": 3796000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 3126000.0,
+        "naturalScience": 3780571.4,
+        "artsSports": 4136000.0,
+        "engineering": 3916000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-d49a078a47",
+      "schoolName": "한국기술교육대학교",
+      "region": "충남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 4475315.8,
+      "tuition2026": 4475287.1,
+      "semesterEstimate2026": 2237643.55,
+      "changeAmount": -28.700000000186265,
+      "changeRate": -0.0006412955260092767,
+      "changeStatus": "decrease",
+      "disciplines2025": {
+        "humanities": 3303000.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": 4727500.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 3302304.0,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": 4720913.6,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-3b977c4819",
+      "schoolName": "한국성서대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7490682.3,
+      "tuition2026": 7506665.2,
+      "semesterEstimate2026": 3753332.6,
+      "changeAmount": 15982.900000000373,
+      "changeRate": 0.21337041620361302,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7086000.0,
+        "naturalScience": 8372000.0,
+        "artsSports": null,
+        "engineering": 7908000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7086000.0,
+        "naturalScience": 8372000.0,
+        "artsSports": null,
+        "engineering": 7908000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-7c7da023e5",
+      "schoolName": "한국에너지공과대학교",
+      "region": "전남광주",
+      "establishmentType": "특별법법인",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 9000000.0,
+      "tuition2026": 9000000.0,
+      "semesterEstimate2026": 4500000.0,
+      "changeAmount": 0.0,
+      "changeRate": 0.0,
+      "changeStatus": "same",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": 9000000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": 9000000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-7d9bb36723",
+      "schoolName": "한국외국어대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7594228.1,
+      "tuition2026": 7791804.0,
+      "semesterEstimate2026": 3895902.0,
+      "changeAmount": 197575.90000000037,
+      "changeRate": 2.60165875186183,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7359601.2,
+        "naturalScience": 8217302.5,
+        "artsSports": null,
+        "engineering": 8913031.9,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7537100.5,
+        "naturalScience": 8425138.4,
+        "artsSports": null,
+        "engineering": 9113343.3,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-8792a35991",
+      "schoolName": "한국전통문화대학교",
+      "region": "충남",
+      "establishmentType": "특별법국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 3382410.7,
+      "tuition2026": 3483232.1,
+      "semesterEstimate2026": 1741616.05,
+      "changeAmount": 100821.3999999999,
+      "changeRate": 2.980755707756007,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 2891833.3,
+        "naturalScience": 3756500.0,
+        "artsSports": 3538500.0,
+        "engineering": 3621000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 2977500.0,
+        "naturalScience": 3868500.0,
+        "artsSports": 3644500.0,
+        "engineering": 3729000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-ae7d6447ea",
+      "schoolName": "한국체육대학교",
+      "region": "서울",
+      "establishmentType": "국립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 3860074.8,
+      "tuition2026": 3860074.8,
+      "semesterEstimate2026": 1930037.4,
+      "changeAmount": 0.0,
+      "changeRate": 0.0,
+      "changeStatus": "same",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": 3860074.8,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": 3860074.8,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-f55d29b69b",
+      "schoolName": "한국침례신학대학교",
+      "region": "대전",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6032225.3,
+      "tuition2026": 5989978.1,
+      "semesterEstimate2026": 2994989.05,
+      "changeAmount": -42247.200000000186,
+      "changeRate": -0.700358456438956,
+      "changeStatus": "decrease",
+      "disciplines2025": {
+        "humanities": 5695028.2,
+        "naturalScience": null,
+        "artsSports": 7615300.0,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 5699845.0,
+        "naturalScience": null,
+        "artsSports": 7607113.1,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-ea94589fd8",
+      "schoolName": "한국항공대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8935459.5,
+      "tuition2026": 9210265.3,
+      "semesterEstimate2026": 4605132.65,
+      "changeAmount": 274805.80000000075,
+      "changeRate": 3.0754523592211545,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7108000.0,
+        "naturalScience": 8552320.0,
+        "artsSports": null,
+        "engineering": 9246759.9,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7322000.0,
+        "naturalScience": 8628074.0,
+        "artsSports": null,
+        "engineering": 9507931.8,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-b87e76b8f7",
+      "schoolName": "한남대학교",
+      "region": "대전",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7657067.8,
+      "tuition2026": 7869677.4,
+      "semesterEstimate2026": 3934838.7,
+      "changeAmount": 212609.60000000056,
+      "changeRate": 2.7766451277863906,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6868430.0,
+        "naturalScience": 7865944.1,
+        "artsSports": 8659058.4,
+        "engineering": 8722218.9,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7040189.9,
+        "naturalScience": 8087378.7,
+        "artsSports": 8880540.7,
+        "engineering": 8945099.9,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-f88bc2b7f7",
+      "schoolName": "한동대학교",
+      "region": "경북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7471730.5,
+      "tuition2026": 7413037.9,
+      "semesterEstimate2026": 3706518.95,
+      "changeAmount": -58692.59999999963,
+      "changeRate": -0.7855288677770113,
+      "changeStatus": "decrease",
+      "disciplines2025": {
+        "humanities": 6995911.7,
+        "naturalScience": 8136000.0,
+        "artsSports": null,
+        "engineering": 8136000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7125377.9,
+        "naturalScience": 8136000.0,
+        "artsSports": null,
+        "engineering": 8136000.0,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-dd703f1e1d",
+      "schoolName": "한라대학교",
+      "region": "강원",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7532127.5,
+      "tuition2026": 7767468.5,
+      "semesterEstimate2026": 3883734.25,
+      "changeAmount": 235341.0,
+      "changeRate": 3.124495701911578,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6214814.8,
+        "naturalScience": null,
+        "artsSports": 8148822.3,
+        "engineering": 8149604.7,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6439008.4,
+        "naturalScience": null,
+        "artsSports": 8453225.1,
+        "engineering": 8441442.6,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-ff53ff346c",
+      "schoolName": "한림대학교",
+      "region": "강원",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7971522.3,
+      "tuition2026": 8226649.5,
+      "semesterEstimate2026": 4113324.75,
+      "changeAmount": 255127.2000000002,
+      "changeRate": 3.2004827986243005,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7016695.2,
+        "naturalScience": 8293176.1,
+        "artsSports": 8536206.3,
+        "engineering": 8864277.1,
+        "medicine": 10888291.7
+      },
+      "disciplines2026": {
+        "humanities": 7222725.0,
+        "naturalScience": 8531516.8,
+        "artsSports": 8782206.3,
+        "engineering": 9126185.2,
+        "medicine": 11200468.3
+      }
+    },
+    {
+      "id": "school-7573460df9",
+      "schoolName": "한서대학교",
+      "region": "충남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8366237.5,
+      "tuition2026": 8525200.1,
+      "semesterEstimate2026": 4262600.05,
+      "changeAmount": 158962.59999999963,
+      "changeRate": 1.9000488570877845,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7786924.7,
+        "naturalScience": 8346892.6,
+        "artsSports": 8361876.0,
+        "engineering": 8873789.2,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7952193.5,
+        "naturalScience": 8499351.2,
+        "artsSports": 8486261.6,
+        "engineering": 9028718.6,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-a1748432a3",
+      "schoolName": "한성대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7793161.1,
+      "tuition2026": 8033733.0,
+      "semesterEstimate2026": 4016866.5,
+      "changeAmount": 240571.90000000037,
+      "changeRate": 3.086961720834956,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6786471.7,
+        "naturalScience": null,
+        "artsSports": 8662377.4,
+        "engineering": 8566029.8,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7003044.9,
+        "naturalScience": null,
+        "artsSports": 8919330.1,
+        "engineering": 8814267.2,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-2bae5a982f",
+      "schoolName": "한세대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8598513.3,
+      "tuition2026": 8859564.3,
+      "semesterEstimate2026": 4429782.15,
+      "changeAmount": 261051.0,
+      "changeRate": 3.0360015841343175,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7528722.6,
+        "naturalScience": 8640000.0,
+        "artsSports": 9959822.0,
+        "engineering": 9272000.0,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7816077.4,
+        "naturalScience": 8877500.0,
+        "artsSports": 10233376.1,
+        "engineering": 9528769.2,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-81665d02aa",
+      "schoolName": "한신대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7641273.8,
+      "tuition2026": 7882204.1,
+      "semesterEstimate2026": 3941102.05,
+      "changeAmount": 240930.2999999998,
+      "changeRate": 3.153012263478896,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7270761.9,
+        "naturalScience": 8243447.9,
+        "artsSports": 8244300.0,
+        "engineering": 8678484.5,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7497991.7,
+        "naturalScience": 8487170.2,
+        "artsSports": 8482250.0,
+        "engineering": 8915642.6,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-7b0a75e6cf",
+      "schoolName": "한양대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 9016311.6,
+      "tuition2026": 9289910.8,
+      "semesterEstimate2026": 4644955.4,
+      "changeAmount": 273599.2000000011,
+      "changeRate": 3.0344913988997577,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7466805.8,
+        "naturalScience": 8981732.5,
+        "artsSports": 9793064.5,
+        "engineering": 9807885.6,
+        "medicine": 11352000.0
+      },
+      "disciplines2026": {
+        "humanities": 7659372.8,
+        "naturalScience": 9218764.9,
+        "artsSports": 10048625.0,
+        "engineering": 10105084.6,
+        "medicine": 11646000.0
+      }
+    },
+    {
+      "id": "school-f2ceb4d35d",
+      "schoolName": "한양대학교(ERICA) _분교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 9004779.7,
+      "tuition2026": 9281769.8,
+      "semesterEstimate2026": 4640884.9,
+      "changeAmount": 276990.1000000015,
+      "changeRate": 3.076034164389402,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7414100.8,
+        "naturalScience": 9332928.6,
+        "artsSports": 9586364.1,
+        "engineering": 9678392.2,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7605548.8,
+        "naturalScience": 9700226.1,
+        "artsSports": 9831849.1,
+        "engineering": 9925309.5,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-2fddf92ebc",
+      "schoolName": "한일장신대학교",
+      "region": "전북",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6810205.5,
+      "tuition2026": 6852602.7,
+      "semesterEstimate2026": 3426301.35,
+      "changeAmount": 42397.200000000186,
+      "changeRate": 0.6225539009065173,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 6020063.3,
+        "naturalScience": 7280000.0,
+        "artsSports": 7234109.6,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6020845.1,
+        "naturalScience": 7280000.0,
+        "artsSports": 7220845.1,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-d9cc9b5ef1",
+      "schoolName": "협성대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7896848.6,
+      "tuition2026": 8135252.7,
+      "semesterEstimate2026": 4067626.35,
+      "changeAmount": 238404.10000000056,
+      "changeRate": 3.0189777223283802,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7027916.3,
+        "naturalScience": 8931406.7,
+        "artsSports": 9045497.1,
+        "engineering": 9047465.3,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7301520.0,
+        "naturalScience": 9217062.1,
+        "artsSports": 9333934.8,
+        "engineering": 9334325.8,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-3a9f2002a3",
+      "schoolName": "호남대학교",
+      "region": "전남광주",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 6581105.5,
+      "tuition2026": 6788793.8,
+      "semesterEstimate2026": 3394396.9,
+      "changeAmount": 207688.2999999998,
+      "changeRate": 3.1558269351554964,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 5938948.2,
+        "naturalScience": 6769616.5,
+        "artsSports": 6852069.5,
+        "engineering": 6890115.3,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6141574.7,
+        "naturalScience": 7070417.2,
+        "artsSports": 7076313.3,
+        "engineering": 6947796.6,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-0a99c68928",
+      "schoolName": "호남신학대학교",
+      "region": "전남광주",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": false,
+      "available2026": true,
+      "tuition2025": null,
+      "tuition2026": 6973029.8,
+      "semesterEstimate2026": 3486514.9,
+      "changeAmount": null,
+      "changeRate": null,
+      "changeStatus": "not-comparable",
+      "disciplines2025": {
+        "humanities": null,
+        "naturalScience": null,
+        "artsSports": null,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 6077139.2,
+        "naturalScience": null,
+        "artsSports": 8286693.3,
+        "engineering": null,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-5006b4cb2f",
+      "schoolName": "호서대학교",
+      "region": "충남",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8164909.4,
+      "tuition2026": 8412408.0,
+      "semesterEstimate2026": 4206204.0,
+      "changeAmount": 247498.59999999963,
+      "changeRate": 3.031247352236384,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7168131.9,
+        "naturalScience": 8280456.5,
+        "artsSports": 8682813.3,
+        "engineering": 8665180.7,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7391111.1,
+        "naturalScience": 8533004.1,
+        "artsSports": 8935004.4,
+        "engineering": 8920461.4,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-112e611fd6",
+      "schoolName": "홍익대학교",
+      "region": "서울",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8836668.5,
+      "tuition2026": 9101269.7,
+      "semesterEstimate2026": 4550634.85,
+      "changeAmount": 264601.19999999925,
+      "changeRate": 2.9943547163730226,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7238597.1,
+        "naturalScience": 7239800.0,
+        "artsSports": 9653790.7,
+        "engineering": 9347585.5,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7455804.1,
+        "naturalScience": 7473800.0,
+        "artsSports": 9940883.3,
+        "engineering": 9628893.2,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-ba49a97a7d",
+      "schoolName": "홍익대학교 _제2캠퍼스",
+      "region": "세종",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 8975828.6,
+      "tuition2026": 9244386.3,
+      "semesterEstimate2026": 4622193.15,
+      "changeAmount": 268557.7000000011,
+      "changeRate": 2.9920101192663275,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7239323.9,
+        "naturalScience": null,
+        "artsSports": 9481371.4,
+        "engineering": 9375095.4,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7453560.8,
+        "naturalScience": null,
+        "artsSports": 9763584.8,
+        "engineering": 9649495.9,
+        "medicine": null
+      }
+    },
+    {
+      "id": "school-35d77d3b6c",
+      "schoolName": "화성의과학대학교",
+      "region": "경기",
+      "establishmentType": "사립",
+      "status": "기존",
+      "available2025": true,
+      "available2026": true,
+      "tuition2025": 7704138.4,
+      "tuition2026": 7748928.3,
+      "semesterEstimate2026": 3874464.15,
+      "changeAmount": 44789.89999999944,
+      "changeRate": 0.5813745505921784,
+      "changeStatus": "increase",
+      "disciplines2025": {
+        "humanities": 7210792.8,
+        "naturalScience": 8237894.7,
+        "artsSports": 7570907.8,
+        "engineering": null,
+        "medicine": null
+      },
+      "disciplines2026": {
+        "humanities": 7238309.5,
+        "naturalScience": 8285606.8,
+        "artsSports": 7599447.5,
+        "engineering": null,
+        "medicine": null
+      }
+    }
+  ]
+}
